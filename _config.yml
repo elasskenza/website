@@ -24,7 +24,7 @@ twitter_username: WEPSecon
 
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo:  "/assets/WEPS.png"
+logo:  "/assets/WEPS_5.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
