@@ -1,16 +1,17 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+WEPS:
+  name: Women in Economics Paris & Saclay
+  picture: /assets/WEPS.png
+  twitter: "@WEPSecon"
   links:
     - title: Twitter
-      url: https://twitter.com/billyrick
+      url: https://twitter.com/WEPSecon
       icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://elasskenza.github.io/WEPS/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:womeninecon.paris.saclay@gmail.com"      
