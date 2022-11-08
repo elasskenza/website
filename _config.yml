@@ -24,7 +24,7 @@ twitter_username: WEPSecon
 
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo:  "/assets/WEPS.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -106,7 +106,7 @@ defaults:
 
 author:
   name   : "WEPS"
-  avatar : "/assets/images/WEPS.png"
+  avatar :  "/assets/WEPS.png"
   bio    : "**Women in Economics Paris & Saclay**. Academic initiative to reflect on **gender** imbalances in **Economics** and strengthen **Paris** area network."
   location : "France"
   links:
