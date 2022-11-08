@@ -14,11 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
-# remote_theme: mmistakes/so-simple-theme
+ 
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: Women in Economics Paris & Saclay
+email: womeninecon.paris.saclay@gmail.com
+description: Women in Economics Paris & Saclay. Academic initiative to reflect on gender imbalances in Economics and strengthen Paris area network.
+twitter_username: WEPSecon
+
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
@@ -79,30 +82,53 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-include-cache
-
-# Front Matter Defaults
+  
+  
 defaults:
-  # Posts defaults
+  # _posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
-      layout: post
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
       share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
-# Site Author
 author:
-  name:
-  picture:
-  email:
-  twitter:
+  name   : "WEPS"
+  avatar : "/assets/images/WEPS.png"
+  bio    : "**Women in Economics Paris & Saclay**. Academic initiative to reflect on **gender** imbalances in **Economics** and strengthen **Paris** area network."
+  location : "France"
   links:
-    - title:
-      url:
-      icon:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://elasskenza.github.io/WEPS/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/WEPSecon"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:womeninecon.paris.saclay@gmail.com"
 
-# Footer Links
-footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+footer:
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://elasskenza.github.io/WEPS/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/WEPSecon"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:womeninecon.paris.saclay@gmail.com"
+
