@@ -11,19 +11,21 @@
         {%- endif -%}
         <a class="social-icon" href="{{ url }}"><i class="{{ footer_link.icon | default: 'fas fa-link' }} fa-2x" title="{{ footer_link.title }}"></i></a>
       {%- endfor -%}
+    </div>
+  {%- endif -%}
+  
     <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    </div>
-          {% if site.footer.links %}
+    {% endif %}
+
+    {% if site.footer.links %}
       {% for link in site.footer.links %}
         {% if link.label and link.url %}
           <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
         {% endif %}
       {% endfor %}
-  {%- endif -%}
-  
-
+    {% endif %}
 
 
   <div class="copyright">
