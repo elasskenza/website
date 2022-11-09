@@ -5,8 +5,8 @@ show_excerpts: true
 
 entries_layout: list
 image: 
-  path: /assets/linkedin_banner_image_2.png
-  thumbnail: /assets/linkedin_banner_image_2.png
+  path: /assets/WEPS_5.png
+  thumbnail: /assets/WEPS_5.png
 ---
 
 
