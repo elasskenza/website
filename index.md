@@ -5,8 +5,8 @@ show_excerpts: true
 
 entries_layout: list
 image: 
-  path: /assets/WEPS_5.png
-  thumbnail: /assets/WEPS_5.png
+  path: /assets/WEPS.png
+  thumbnail: /assets/WEPS.png
 ---
 
 
