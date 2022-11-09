@@ -12,8 +12,6 @@ entries_layout: grid
 }
 </style>
 
-Sample document listing for the collection `_newletters`.
 
 
-
-📜** Subscribe ** [here](https://docs.google.com/forms/d/e/1FAIpQLSeGiRvHdq-_eL7PFWXI0oLYUMBkaFyGqTRAAOTwU-b3aM3PBg/viewform?usp=sf_link)  to the newsletter
+📜 **Subscribe** [here](https://docs.google.com/forms/d/e/1FAIpQLSeGiRvHdq-_eL7PFWXI0oLYUMBkaFyGqTRAAOTwU-b3aM3PBg/viewform?usp=sf_link)  to the newsletter
