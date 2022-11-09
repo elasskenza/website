@@ -1,8 +1,8 @@
 ---
-title: Newsletter
+title: Newsletters
 layout: collection
-permalink: /newsletter/
-collection: newsletter
+permalink: /newsletters/
+collection: newsletters
 entries_layout: grid
 ---
 
