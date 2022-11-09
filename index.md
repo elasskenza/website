@@ -4,8 +4,8 @@ limit: 10
 show_excerpts: true
 entries_layout: list
 image: 
-  path: /assets/WEPS.png
-  thumbnail: /assets/WEPS.png
+  path: /assets/cover_photo_2.png
+  thumbnail: /assets/cover_photo_2.png
 ---
 
 
