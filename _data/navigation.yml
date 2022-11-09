@@ -2,10 +2,16 @@
 
 - title: Home
   url: /
-- title: Newsletter
-  url: /newsletter/
-- title: Categories
-  url: /categories/
+- title: We are WEPS
+  url: /we-are-weps/
+- title: Newsletters
+  url: /newsletters/
+- title: Knowledge 
+  url: /knowledge/  
+- title: Exchange 
+  url: /exchange/   
+- title: Support
+  url: /support/     
 - title: Search
   url: /search/
 - title: "About"
