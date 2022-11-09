@@ -8,7 +8,7 @@ image:
   thumbnail: /assets/WEPS.png
 actions:
   - label: "We are WEPS"
-      url: "[https://unsplash.com](https://elasskenza.github.io/WEPS_2/we-are-weps/)"
+    url: "[https://unsplash.com](https://elasskenza.github.io/WEPS_2/we-are-weps/)"
 ---
 
 
