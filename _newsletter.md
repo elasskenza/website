@@ -1,0 +1,8 @@
+---
+title: "Newsletter May 2022"
+image: 
+  path: /assets/4521d0f8-6ffd-9714-269a-eef0241f5fca.png
+  thumbnail: /assets/4521d0f8-6ffd-9714-269a-eef0241f5fca.png
+  caption: "Interview: Hélène Périvier author of Feminist Economics"
+---
+<object data="../assets/pdf/newsletter.pdf" width="1000" height="1000" type='application/pdf'></object>
