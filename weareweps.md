@@ -17,7 +17,7 @@ Blabla bla
 
 
 ```html
-<img src="assets/WEPS.png" class="align-center" alt="">
+img src="assets/WEPS.png" class="align-center" alt=""
 ```
 
 blabla
