@@ -14,4 +14,4 @@ entries_layout: grid
 
 
 
-📜 **Subscribe** [here](https://docs.google.com/forms/d/e/1FAIpQLSeGiRvHdq-_eL7PFWXI0oLYUMBkaFyGqTRAAOTwU-b3aM3PBg/viewform?usp=sf_link)  to the newsletter
+📜 **Subscribe** [here](https://docs.google.com/forms/d/e/1FAIpQLSeGiRvHdq-_eL7PFWXI0oLYUMBkaFyGqTRAAOTwU-b3aM3PBg/viewform?usp=sf_link){: .btn .btn--accent}  to the newsletter
