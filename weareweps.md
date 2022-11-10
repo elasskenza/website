@@ -15,9 +15,6 @@ elements:
 
 Blabla bla 
 
-
-```html
-img src="assets/WEPS.png" class="align-center" alt=""
-```
+![blabla]({{ '/assets/WEPS.png' | absolute_url }}){: .align-center}
 
 blabla
