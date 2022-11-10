@@ -83,6 +83,12 @@ plugins:
   - jekyll-paginate
   - jekyll-include-cache
   
+# Collections
+collections:
+  newsletter:
+    output: true
+    permalink: /:collection/:path/  
+  
   
 defaults:
   # _posts
