@@ -15,6 +15,6 @@ elements:
 
 Blabla bla 
 
-![blabla]({{ '/assets/WEPS_2.png' | absolute_url }}){: .align-center}
+![blabla]({{ '/assets/WEPS_3.png' | absolute_url }}){: .align-center}
 
 blabla
