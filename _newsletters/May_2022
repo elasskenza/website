@@ -20,6 +20,6 @@ blabla
 
 <object data="/_newsletters/newsletter_may.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-st.markdown("""
-<embed src="../_newsletters/newsletter_may.pdf" width="400" height="400">
-""", unsafe_allow_html=True)
+base64_pdf = base64.b64encode(../_newsletters/newsletter_may.pdf.read()).decode('utf-8')
+pdf_display = f'<embed src="data:application/pdf;base64,{base64_pdf}" width="700" height="1000" type="application/pdf">' 
+st.markdown(pdf_display, unsafe_allow_html=True)
