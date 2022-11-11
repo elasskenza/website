@@ -19,3 +19,7 @@ truc
 blabla
 
 <object data="/_newsletters/newsletter_may.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+st.markdown("""
+<embed src="../_newsletters/newsletter_may.pdf" width="400" height="400">
+""", unsafe_allow_html=True)
