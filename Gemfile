@@ -6,6 +6,10 @@ gem "jekyll-include-cache", group: :jekyll_plugins
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
+source "https://rubygems.pkg.github.com/mihajlonesic" do
+  gem "jekyll-pdf-embed", "1.1.1"
+end
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-theme-so-simple"
