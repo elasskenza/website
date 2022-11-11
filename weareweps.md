@@ -19,5 +19,3 @@ Blabla bla
 
 blabla
 
-
-<object data="../assets/pdf/newsletter.pdf" width="1000" height="1000" type='application/pdf'></object>
