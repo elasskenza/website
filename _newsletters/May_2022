@@ -9,13 +9,13 @@ image:
 ---
 
 
-<embed src="/assets/pdf/newsletter_may.pdf" width="1000" height="1000"  type="application/pdf">
+<embed src="/_newsletters/newsletter_may.pdf" width="1000" height="1000"  type="application/pdf">
 truc
-<embed src="/assets/pdf/newsletter_may.pdf" width="1000" height="800" frameborder="0" allowfullscreen>
+<embed src="/_newsletters/newsletter_may.pdf" width="1000" height="800" frameborder="0" allowfullscreen>
 
-<object width="400" height="400" data="/assets/pdf/newsletter_may.pdf"></object>
+<object width="400" height="400" data="/_newsletters/newsletter_may.pdf"></object>
 
 
 truc 
 
-<object data="/assets/pdf/newsletter_may.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/_newsletters/newsletter_may.pdf" width="1000" height="1000" type='application/pdf'></object>
