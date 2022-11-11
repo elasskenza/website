@@ -1,5 +1,5 @@
 ---
-title: contact
+title: Contact
 subtitle: Where to find us?
 layout: page
 permalink: /contact/
