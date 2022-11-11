@@ -1,5 +1,5 @@
 ---
-title: knowledge
+title: Knowledge
 layout: page
 permalink: /knowledge/
 elements:
