@@ -1,5 +1,5 @@
 ---
-title: exchange
+title: Exchange
 layout: page
 permalink: /exchange/
 elements:
