@@ -6,12 +6,6 @@ image:
   path: /assets/photo_newsletter_april_2022.jpg
   thumbnail: /assets/photo_newsletter_april_2022.jpg
   caption: "Picture of the book "Patriarcapitalisme" by Pauline Grosjean"
-elements:
-  - content
-  - css
-  - formatting
-  - html
-  - markup  
 ---
 
 <object data="../April_2022.pdf" width="1000" height="1000" type='application/pdf'></object>
