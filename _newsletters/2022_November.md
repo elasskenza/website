@@ -1,6 +1,3 @@
-page-image img {
-    width: 0%
-}
 ---
 layout: page
 title: "Newsletter November 2022"
@@ -11,6 +8,8 @@ image:
   caption: "©TDR"
 ---
 
-
+page-image img {
+    width: 0%
+}
  
 Coming soon!
