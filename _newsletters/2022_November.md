@@ -1,3 +1,6 @@
+page-image img {
+    width: 0%
+}
 ---
 layout: page
 title: "Newsletter November 2022"
@@ -6,9 +9,6 @@ image:
   path: /assets/metoo.jfif
   thumbnail: /assets/metoo.jfif
   caption: "©TDR"
-page-image img {
-    width: 0%
-}
 ---
 
 
