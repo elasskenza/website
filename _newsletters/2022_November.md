@@ -7,8 +7,7 @@ image:
   thumbnail: /assets/metoo.jfif
   caption: "©TDR"
 ---
-
-page-image img {
+$page-image img {
     width: 0%
 }
  
