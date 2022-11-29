@@ -2,16 +2,16 @@
 
 - title: Home
   url: /
-- title: We are WEPS
-  url: /weareweps/
-- title: Newsletters
-  url: /newsletters/
-- title: Knowledge 
-  url: /knowledge/  
+- title: Research
+  url: /research/
+- title: CV
+  url: /cv/
+- title: Conferences & seminars 
+  url: /conferences/  
 - title: Exchange 
   url: /exchange/   
-- title: Support
-  url: /support/     
+- title: Teaching
+  url: /teaching/     
 - title: Search
   url: /search/
 - title: "Contact"
