@@ -6,8 +6,8 @@ limit: 10
 show_excerpts: true
 entries_layout: list
 image: 
-  path: /assets/IMG_8240.jpg
-  thumbnail: /assets/IMG_8240.jpg
+  path: /assets/IMG_8580.JPG
+  thumbnail: /assets/IMG_8580.JPG
 categories:
   - Markup
 elements:
