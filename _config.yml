@@ -17,14 +17,15 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
  
 skin: "/assets/css/skins/light.css"
 locale: en-US
-title: Women in Economics Paris & Saclay
-email: womeninecon.paris.saclay@gmail.com
-description: Women in Economics Paris & Saclay. Academic initiative to reflect on gender imbalances in Economics and strengthen Paris area network.
-twitter_username: WEPSecon
+
+title: Kenza Elass
+email: kenza.elass@univ-amu.fr
+description: "PhD candidate in **Labour** and **Gender** Economics at the Aix-Marseille School of Economics and at the Labour Chair of the Paris School of Economics."
+twitter_username: ElassKenza
 
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo:  "/assets/logo_transparent.png"
+logo:  "/assets/IMG_1586.JPG"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
