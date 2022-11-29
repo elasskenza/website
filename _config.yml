@@ -20,12 +20,12 @@ locale: en-US
 
 title: Kenza Elass
 email: kenza.elass@univ-amu.fr
-description: "PhD candidate in **Labour** and **Gender** Economics at the Aix-Marseille School of Economics and at the Labour Chair of the Paris School of Economics."
+description: "PhD candidate in Labour and Gender Economics at the Aix-Marseille School of Economics and at the Labour Chair of the Paris School of Economics."
 twitter_username: ElassKenza
 
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo:  "/assets/IMG_1586.JPG"
+logo:  "/assets/IMG_8580.JPG"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -113,30 +113,35 @@ defaults:
       author_profile: true
 
 author:
-  name   : "WEPS"
-  avatar :  "/assets/WEPS.png"
-  bio    : "**Women in Economics Paris & Saclay**. Academic initiative to reflect on **gender** imbalances in **Economics** and strengthen **Paris** area network."
+  name   : "Kenza Elass"
+  avatar : ""
+  bio    : "PhD candidate in Labour and Gender Economics at the Aix-Marseille School of Economics."
   location : "France"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://elasskenza.github.io/WEPS_2/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/WEPSecon"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:womeninecon.paris.saclay@gmail.com"
-
+   - label: "Twitter"
+     icon: "fab fa-fw fa-twitter-square"
+     url: "https://twitter.com/ElassKenza"
+   - label: "Email"
+     icon: "fas fa-fw fa-envelope-square"
+     url: "mailto:kenza.elass@univ-amu.fr"
+   - label: "Website"
+     icon: "fas fa-fw fa-link"
+     url: "https://elasskenza.github.io/Site/"  
+   - label: "GitHub"
+     icon: "fab fa-fw fa-github"
+     url: "https://github.com/"  
+     
 footer:
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://elasskenza.github.io/WEPS_2/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/WEPSecon"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:womeninecon.paris.saclay@gmail.com"
-
+  links:   
+   - label: "Twitter"
+     icon: "fab fa-fw fa-twitter-square"
+     url: "https://twitter.com/ElassKenza"
+   - label: "Email"
+     icon: "fas fa-fw fa-envelope-square"
+     url: "mailto:kenza.elass@univ-amu.fr"
+   - label: "Website"
+     icon: "fas fa-fw fa-link"
+     url: "https://elasskenza.github.io/Site/"  
+   - label: "GitHub"
+     icon: "fab fa-fw fa-github"
+     url: "https://github.com/"  
