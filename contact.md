@@ -21,7 +21,7 @@ elements:
  
 ## Office address
 
-| <img src="/assets/amse_logo_couleur_sans_signature_rvb.png" width="125" height="100">  |  <img src="/assets/logo_pse.png" width="125" height="100"> |
+| <img src="/assets/amse_logo_couleur_sans_signature_rvb.png" width="130" height="100">  |  <img src="/assets/logo_pse.png" width="110" height="125"> |
 |:--------|:-------:|
 |  Aix-Marseille School of Economics | Paris School of Economics | 
 | 5-9 Boulevard Maurice Bourdet, CS 50498 | 48 boulevard Jourdan  |
