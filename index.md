@@ -8,6 +8,8 @@ entries_layout: list
 image: 
   path: /assets/IMG_8580.JPG
   thumbnail: /assets/IMG_8580.JPG
+  overlay_color: "#000"
+  overlay_filter: "0.5"
 categories:
   - Markup
 elements:
