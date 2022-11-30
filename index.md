@@ -22,7 +22,7 @@ elements:
 
 ## Welcome on my personnal website
 
-> I am a **PhD candidate** in economics at the [Aix Marseille School of Economics](https://www.amse-aixmarseille.fr/en/members/elass) and at the [Labour Chair](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/) at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/doctorants/).
+> I am a **PhD candidate** in economics at the [Aix Marseille School of Economics](https://www.amse-aixmarseille.fr/en/members/elass) ![AMSE](/assets/amse_logo_couleur_sans_signature_rvb.png)  and at the [Labour Chair](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/) at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/doctorants/) ![PSE](/assets/logo_pse.png).
 
 * My research interests are in **applied labour**, in **gender** and **urban economics**. My research focuses on the analysis of the **supply-side effects on gender wage inequality**. My ongoing projects study the motives and effects of gender differences in the job search, labour supply and wage gaps along the distribution.
 
