@@ -20,23 +20,18 @@ elements:
   - markup  
 ---
 
+## Welcome on my personnal website
 
+> I am a **PhD candidate** in economics at the [Aix Marseille School of Economics](https://www.amse-aixmarseille.fr/en/members/elass) and at the [Labour Chair](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/) at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/doctorants/).
 
-> I am a **PhD candidate** in economics at the [Aix Marseille School of Economics](https://www.amse-aixmarseille.fr/en/members/elass) – Aix Marseille University.
+* My research interests are in **applied labour**, in **gender** and **urban economics**. My research focuses on the analysis of the **supply-side effects on gender wage inequality**. My ongoing projects study the motives and effects of gender differences in the job search, labour supply and wage gaps along the distribution.
 
-I work on topics in **labour** and **gender economics**.
+* In 2022, I was a visiting scholar at the AXA Gender Lab at Bocconi University, sponsored by Paola Profeta.
 
-My research focuses on the analysis of the **supply-side effects on gender wage inequality**. My ongoing projects study the motives and effects of gender differences in the job search, labour supply and wage gaps along the distribution.
+* You can view my CV here and learn more about and my research here
 
-In 2022, I was a visiting scholar at the AXA Gender Lab at Bocconi University, sponsored by Paola Profeta.
+* I am also on [Twitter](https://twitter.com/ElassKenza).
 
-You can view my CV here and learn more about and my research here
+**Contact**<i class="fa fa-envelope"></i>:
+{:  kenza.elass@univ-amu.fr | kenza.elass@gmail.com }
 
-I am also on [Twitter](https://twitter.com/ElassKenza).
-
-Contact: kenza.elass@univ-amu.fr | kenza.elass@gmail.com
-
-
-
-**Next event:** blablabla.
-{: .notice--danger}
