@@ -32,6 +32,5 @@ elements:
 
 * I am also on [Twitter](https://twitter.com/ElassKenza).
 
-**Contact**<i class="fa fa-envelope"></i>:
-{:  kenza.elass@univ-amu.fr | kenza.elass@gmail.com }
-
+<i class="fa fa-envelope"></i> **Contact**: kenza.elass@univ-amu.fr | kenza.elass@gmail.com 
+{: .notice}
