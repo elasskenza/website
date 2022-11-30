@@ -21,10 +21,10 @@ elements:
  
 ## Office address
 
-| ![AMSE](/assets/amse_logo_couleur_rvb.png) | ![PSE](/assets/792px-Logo_pse_petit.jpg)  |
+| ![AMSE](/assets/amse_logo_couleur_sans_signature_rvb.png) | ![PSE](/assets/logo_pse.png)  |
 |:--------|:-------:|
-| AMU - AMSE | cell2   | 
-| 5-9 Boulevard Maurice Bourdet, CS 50498 | cell2   |
-| 13205 Marseille Cedex 1 | cell2   |
-| Office 2-25 | cell2   |
+|  Aix-Marseille School of Economics | Paris School of Economics | 
+| 5-9 Boulevard Maurice Bourdet, CS 50498 | 48 boulevard Jourdan  |
+| 13205 Marseille Cedex 1 | 75014 Paris  |
+| Office 2-25 | Office R3-55 |
 
