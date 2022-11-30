@@ -15,7 +15,8 @@ elements:
 <i class="fa fa-envelope"></i> Don't hesitate to contact me at **[kenza.elass@univ-amu.fr](mailto:kenza.elass@univ-amu.fr)**
 
 ## Twitter  
-[@ElassKenza](https://twitter.com/ElassKenza).
+
+<a href="https://twitter.com/ElassKenza?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ElassKenza</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> [@ElassKenza](https://twitter.com/ElassKenza).
 
  
 ## Office address
