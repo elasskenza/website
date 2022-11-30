@@ -21,8 +21,10 @@ elements:
  
 ## Office address
 
-  
-AMU - AMSE
-5-9 Boulevard Maurice Bourdet, CS 50498
-13205 Marseille Cedex 1
-Office 2-25
+| ![AMSE](/assets/amse_logo_couleur_rvb.png) | ![PSE](/assets/792px-Logo_pse_petit.jpg)  |
+|:--------|:-------:|
+| AMU - AMSE | cell2   | 
+| 5-9 Boulevard Maurice Bourdet, CS 50498 | cell2   |
+| 13205 Marseille Cedex 1 | cell2   |
+| Office 2-25 | cell2   |
+
