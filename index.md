@@ -18,6 +18,12 @@ elements:
   - formatting
   - html
   - markup  
+  - 
+
+element {
+  font-size: 75;
+}
+
 ---
 
 ## Welcome on my personnal website
