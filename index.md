@@ -31,7 +31,7 @@ elements:
 
 * In 2022, I was a visiting scholar at the AXA Gender Lab at Bocconi University, sponsored by Paola Profeta.
 
-* You can view my CV here and learn more about and my research here
+* You can view my [CV here](https://elasskenza.github.io/website/cv/) and learn more about and my [research here](https://elasskenza.github.io/website/research/).
 
 * I am also on [Twitter](https://twitter.com/ElassKenza).
 
