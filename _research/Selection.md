@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The multiple dimensions of selection into employment"
-excerpt: "<b><u> Abstract: </b></u> A vast literature on gender wage gaps has examined the importance of selection into employ-
+excerpt: "** <u> Abstract: </u> ** A vast literature on gender wage gaps has examined the importance of selection into employ-
 ment. However, most analyses have focused only on female labour force participation and
 gaps at the median. The Great Recession questions this approach both because of the major
 shift in male employment that it implied but also because women’s decisions to participate
@@ -15,7 +15,7 @@ benefit systems – the UK, France and Finland. My results imply different selec
 across countries and a sizeable male selection in France and the UK. Correction for selection
 bias lowers the gender wage gap and, in most recent years, reveals an increasing shape of
 gender gap distribution with a substantial glass ceiling for the three countries.
-<b><u>Status: </b></u> Revise and Resubmit, **Labour Economics**"
+<u>**Status: **</u> Revise and Resubmit, **Labour Economics**"
 image: 
   path: /assets/WEPS.png
   thumbnail: /assets/WEPS.png
