@@ -27,7 +27,7 @@ elements:
 
 * My research interests are in **applied labour**, in **gender** and **urban economics**. My research focuses on the analysis of the **supply-side effects on gender wage inequality**. My ongoing projects study the motives and effects of gender differences in the job search, labour supply and wage gaps along the distribution.
 
-* In 2019, I started my PhD on the <i>supply side effects on gender wage inequality<i><br />, supervised by [Cecilia Garcia-Peñalosa](https://sites.google.com/view/ceciliagarciapenalosa) and [Christian Schluter](https://christianschluter.github.io/).
+* In 2019, I started my PhD on the <i>supply side effects on gender wage inequality<i>, supervised by [Cecilia Garcia-Peñalosa](https://sites.google.com/view/ceciliagarciapenalosa) and [Christian Schluter](https://christianschluter.github.io/).
 
 * In 2022, I was a visiting scholar at the AXA Gender Lab at Bocconi University, sponsored by Paola Profeta.
 
