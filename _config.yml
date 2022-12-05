@@ -87,7 +87,7 @@ plugins:
   
 # Collections
 collections:
-  newsletters:
+  research:
     output: true
     permalink: /:collection/:path/  
   
