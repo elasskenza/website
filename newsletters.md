@@ -13,6 +13,3 @@ entries_layout: grid
 </style>
 
 
-
-Working papers {: .btn .btn--accent} 
-
