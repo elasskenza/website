@@ -1,8 +1,8 @@
 ---
-title: Newsletters
+title: Research
 layout: collection
-permalink: /newsletters/
-collection: newsletters
+permalink: /research/
+collection: research
 entries_layout: grid
 ---
 
@@ -14,4 +14,5 @@ entries_layout: grid
 
 
 
-📜 [Subscribe here](https://docs.google.com/forms/d/e/1FAIpQLSeGiRvHdq-_eL7PFWXI0oLYUMBkaFyGqTRAAOTwU-b3aM3PBg/viewform?usp=sf_link){: .btn .btn--accent}  to the newsletter
+Working papers {: .btn .btn--accent} 
+
