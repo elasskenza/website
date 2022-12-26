@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
  
-skin: "/assets/css/skins/dark.css"
+skin: "/assets/css/skins/light.css"
 locale: en-US
 
 title: Kenza Elass
@@ -141,7 +141,7 @@ footer:
      url: "mailto:kenza.elass@univ-amu.fr"
    - label: "Website"
      icon: "fas fa-fw fa-link"
-     url: "https://elasskenza.github.io/Site/"  
+     url: "https://elasskenza.github.io/website/"  
    - label: "GitHub"
      icon: "fab fa-fw fa-github"
      url: "https://github.com/"  
