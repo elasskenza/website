@@ -8,8 +8,6 @@ elements:
   - formatting
   - html
   - markup  
-permalink: /teaching_1/
-published: false
 ---
 
 # Teaching - Econometrics of Qualitative Dependent Variables
