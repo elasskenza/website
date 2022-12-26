@@ -27,7 +27,7 @@ elements:
   
 **2021:**
   * 9th ECINEQ Conference (London School of Economics)
-  * ECINEQ PhD Workshop (London School of Economics)}
+  * ECINEQ PhD Workshop (London School of Economics)
 
 # Seminars
 
@@ -43,4 +43,4 @@ elements:
 
 **2020:**
   * Empirical & Econometric Methods Sessions (Aix-Marseille School of Economics)
-  * PhD seminar (Aix-Marseille School of Economics)}
+  * PhD seminar (Aix-Marseille School of Economics)
