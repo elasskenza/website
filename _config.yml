@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
  
-skin: "/assets/css/skins/light.css"
+skin: "/assets/css/skins/dark.css"
 locale: en-US
 
 title: Kenza Elass
