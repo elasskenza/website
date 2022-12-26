@@ -5,11 +5,6 @@ subtitle: "PhD candidate at the Aix Marseille School of Economics"
 limit: 10
 show_excerpts: true
 entries_layout: list
-image: 
-  path: /assets/bann.png
-  thumbnail: /assets/bann.png
-  overlay_color: "#000"
-  overlay_filter: "0.5"
 categories:
   - Markup
 elements:
