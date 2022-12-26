@@ -1,4 +1,5 @@
 ---
+title: Teaching
 layout: page
 categories:
   - Markup
@@ -10,7 +11,7 @@ elements:
   - markup  
 ---
 
-# Teaching - Econometrics of Qualitative Dependent Variables
+# Econometrics of Qualitative Dependent Variables
 
 You can find here the exercises of the Econometrics of Qualitative Dependent Variables course.
 
