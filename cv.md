@@ -11,4 +11,4 @@ elements:
   - markup  
 ---
 
-<object data="../assets/CV_anglais_.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../assets/CV_anglais.pdf" width="1000" height="1000" type='application/pdf'></object>
