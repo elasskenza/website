@@ -12,8 +12,8 @@ elements:
 
 # Conferences and Workshops
 
-**2023 (Scheduled):**
-  * ADRES
+**2023:**
+  * ADRES - Paris Dauphine University
 
 **2022:** 
   * EDGE Jamboree Conference
