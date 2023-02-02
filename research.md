@@ -40,6 +40,6 @@ elements:
 
   *  **_Sex and the density: Female urban wage premium and the gender wage gap_**, with Cecilia García-Peñalosa (AMSE, CNRS, EHESS) & Christian Schluter (AMSE)
   *  **_Gender Norms and Child Development_**, with Hélène Le Forner (CREM) & Sarah Vincent (AMSE)
-  * *  **_Changing the media narrative: the role of social movements_**, with Caroline Coly (Bocconi University)
+  * **_Changing the media narrative: the role of social movements_**, with Caroline Coly (Bocconi University)
 
 
