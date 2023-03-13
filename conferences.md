@@ -35,6 +35,10 @@ elements:
 
 # Seminars
 
+** 2023 **
+  * PhD seminar at the Aix-Marseille School of Economics (AMSE)
+  * Applied Economics Lunch seminar at the Paris School of Economics
+
 **2022:**
   * Food for Thought seminar at Bocconi University
   * AMSE PhD seminar
