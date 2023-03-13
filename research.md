@@ -28,7 +28,7 @@ elements:
 
 ### *What do women want in a job? Gender-biased preferences and the reservation wage gap*
 
-##### Draft available upon request
+##### Draft available at this [link](https://www.dropbox.com/s/rulyudme99eyjhh/Elass_RWgap.pdf?dl=0)
 
   * **Abstract:** Recent explanations of the gender wage gap emphasize the role of gender differences in psychological traits. Nevertheless, there have been only a limited number of studies confirming the relevance of these factors for labour market outcomes. This paper assesses the role of gender specific preferences in the reservation wage gap during the job search. I use French administrative data from the unemployment insurance agency providing information on job search behaviour and previous outcomes to assess which kind of occupations men and women apply for and the gap in their reservation wages. Employing text analysis, I build a novel dataset classifying occupations with respect to a number of characteristics and examine to which extent men and women differ in the occupation they are looking for.  I document widespread gender differences in the occupation characteristics targeted by job seekers. Quantile decomposition methods allow me to document an unequal gap in reservation wage, intensifying along the distribution. After adjusting for occupation characteristics reflecting gender-biased preferences and household constraints, the unexplained part of the reservation wage gap is decreased by half. Investigating unemployment history and outcomes from previous interviews with firms, I do not find evidence of a female risk aversion to previous unemployment shocks or male overconfidence.
 {: .text-justify}
