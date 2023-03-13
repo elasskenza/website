@@ -35,7 +35,7 @@ elements:
 
 # Seminars
 
-** 2023 **
+**2023**
   * PhD seminar at the Aix-Marseille School of Economics (AMSE)
   * Applied Economics Lunch seminar at the Paris School of Economics
 
