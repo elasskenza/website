@@ -19,8 +19,8 @@ elements:
 {: .notice--accent}
 
 
-From September 2023, I will join [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home) and the [Axa Gender Lab](https://genderlab.unibocconi.eu/) as a postdoctoral researcher.
-{: .notice--success}
+From September 2023, I will join [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home) and the [Axa Gender Lab](https://genderlab.unibocconi.eu/) as a **postdoctoral researcher**
+{: .notice--danger}
 
 * My research interests are in **applied labour**, in **gender** and **urban economics**. My research focuses on the analysis of the **supply-side effects on gender wage inequality**. My ongoing projects study the motives and effects of gender differences in the job search, labour supply and wage gaps along the distribution.
 
