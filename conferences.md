@@ -16,6 +16,13 @@ elements:
 
 **2023:**
   * ADRES - Paris Dauphine University
+  * 2023 Conference in Applied Econometrics using Stata
+  * JMA 2023
+  * AFSE 2023
+  * LAGV 2023
+  * ECINEQ 2023
+  * GRAPE 2023 - Gender Gaps Conference *(Scheduled)*
+  * EALE 2023 *(Scheduled)*
 
 **2022:** 
   * EDGE Jamboree Conference
