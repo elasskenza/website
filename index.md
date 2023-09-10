@@ -15,7 +15,7 @@ elements:
   
 ---
 
- I am a **Post-doctoral researcher** in economics at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home) and the [Axa Gender Lab](https://genderlab.unibocconi.eu/)  <img src="https://user-images.githubusercontent.com/47663697/204860013-a02021b6-32d1-4e85-8696-f0c746508ed3.png" width="100" height="70">    <img src="https://github.com/elasskenza/website/blob/30eb3e1bbf4f78654dbf3389a747a2282606ce62/assets/Bocconi_logo.png" width="50" height="70"> 
+ I am a **Post-doctoral researcher** in economics at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home) and the [Axa Gender Lab](https://genderlab.unibocconi.eu/)      <img src="https://github.com/elasskenza/website/blob/7e399b2f82bf268c70327b7de8a4663efb5eee8b/assets/Bocconi_logo.png?raw=true" width="50" height="70"> 
 {: .notice--accent}
 
 
