@@ -12,13 +12,13 @@ elements:
   - markup  
 ---
 
-<i class="fa fa-envelope"></i> Don't hesitate to contact me at **[kenza.elass@univ-amu.fr](mailto:kenza.elass@univ-amu.fr)**
+<i class="fa fa-envelope"></i> Don't hesitate to contact me at **[kenza.elass@unibocconi.it](kenza.elass@unibocconi.it)**
 
 ## Office address
 
-| <img src="https://user-images.githubusercontent.com/47663697/204860013-a02021b6-32d1-4e85-8696-f0c746508ed3.png" width="130" height="100">  |  <img src="https://user-images.githubusercontent.com/47663697/204859845-4e7ee211-1020-4452-93ae-98c7c5ed9d2d.png" width="100" height="115"> |
-|:--------:|:-------:|
-|  _Aix-Marseille School of Economics <br />  5-9 Boulevard Maurice Bourdet, CS 50498 <br /> 13205 Marseille Cedex 1   <br /> Office 2-25_  | _Paris School of Economics <br />  48 boulevard Jourdan <br />   75014 Paris <br /> Office R3-55_ |
+| <img src="https://github.com/elasskenza/website/blob/main/assets/Bocconi.png?raw=true" width="130" height="100">  |
+|:---------------------------------------------------------------------------------------------------------:| 
+|  _AXA Research lab on gender equality site (Gender Lab) <br />  Via Röntgen n. 1 <br />  Milan 20136    <br /> Office 6.e3 fm01_  |
 
 
 ## Twitter  
