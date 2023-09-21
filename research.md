@@ -21,7 +21,7 @@ elements:
 
   * **Abstract:** A vast literature on gender wage gaps has examined the importance of selection into employment. However, most analyses have focused only on female labour force participation and gaps at the median. The Great Recession questions this approach both because of the major shift in male employment that it implied but also because women’s decisions to participate seem to have been different along the distribution, particularly due to an “added worker effect”. This paper uses the methodology proposed by Arellano and Bonhomme (2017) to estimate a quantile selection model over the period 2007-2018. Using a tax and benefit mi- crosimulation model, I compute an instrument capturing the male selection induced by the crisis as well as female decisions: the potential out-of-work income. Since my instrument is crucially determined by the welfare state, I consider three countries with notably different benefit systems – the UK, France and Finland. My results imply different selection patterns across countries and a sizeable male selection in France and the UK. Correction for selection bias lowers the gender wage gap and, in most recent years, reveals an increasing shape of gender gap distribution with a substantial glass ceiling for the three countries.  
 {: .text-justify}
-  * **Presentations:** Ninth ECINEQ Meeting of The Society for the Study of Economic Inequality, ECINEQ PhD Workshop participants at the London School of Economics, 14th Workshop on Labour Economics (IAAEU), the 4th QMUL Economics Workshop for PhD and Post-doctoral Students, the 2022 French Stata conference, PhD seminar at the Aix-Marseille School of Economics, Labour Chair seminar at the Paris School of Economics
+  * **Presentations:** EALE 2023 (Scheduled), LAGV 2023, Ninth ECINEQ Meeting of The Society for the Study of Economic Inequality, ECINEQ PhD Workshop participants at the London School of Economics, 14th Workshop on Labour Economics (IAAEU), the 4th QMUL Economics Workshop for PhD and Post-doctoral Students, the 2022 French Stata conference, PhD seminar at the Aix-Marseille School of Economics, Labour Chair seminar at the Paris School of Economics
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -36,9 +36,21 @@ elements:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+### *Sex and the city: Gender gaps in the urban wage premium*
+ With Cecilia García-Peñalosa (AMSE, CNRS, EHESS) & Christian Schluter (AMSE)
+
+#####  WP coming soon! 
+
+  * **Abstract:** In France, the gender wage gap for the 20\% of the workforce living in the densest locations is 22\% lower than that for those living in the bottom 20\% of the density distribution, indicating that women benefit more from urban density than men. This paper explores the importance of geographical location for understanding the gender wage gap. Following the recent literature on economic geography that takes into account the endogeneity of location, we estimate the difference in the returns to urban density across genders. We build an exhaustive matched employer-employee panel database based on administrative data that allows us to follow almost all French workers during the period 2005-2019. Our results show that earnings increase with density for both men and women, with a significantly higher urban wage premium for women, which is about 55\% larger than for men. We consider different mechanisms that may explain this pattern, such as the difference in returns to experience, access to childcare facilities and the structure of the local labour market. Our findings suggest that these factors explain all of the gender gap in earnings from living in denser areas.
+{: .text-justify}
+  * **Presentations:**   PhD seminar at the Aix Marseille School of Economics, Paris School of Economics Labour Chair seminar, GRAPE 2023 Gender Gaps Conference, Bocconi Food for Thought seminar (Scheduled)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Selected work in progress 
 
-  *  **_Sex and the density: Female urban wage premium and the gender wage gap_**, with Cecilia García-Peñalosa (AMSE, CNRS, EHESS) & Christian Schluter (AMSE)
+
   *  **_Gender Norms and Child Development_**, with Hélène Le Forner (CREM) & Sarah Vincent (AMSE)
   * **_Changing the media narrative: the role of social movements_**, with Caroline Coly (Bocconi University)
 
