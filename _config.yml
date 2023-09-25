@@ -19,8 +19,8 @@ skin: "/assets/css/skins/light.css"
 locale: en-US
 
 title: Kenza Elass
-email: kenza.elass@univ-amu.fr
-description: "Post-doctoral researcher in Applied Labour and Gender Economics at the Bocconi University and the AXA Gender Lab."
+email: kenza.elass@unibocconi.it
+description: "Post-doctoral researcher in Applied Labour and Gender Economics at Bocconi University and AXA Gender Lab."
 twitter_username: ElassKenza
 
 baseurl: # the subpath of your site, e.g. "/blog"
