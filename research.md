@@ -11,17 +11,22 @@ elements:
 
 ---
 
-# Working papers
+# Publications
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### *[The multiple dimensions of selection into employment](https://www.amse-aixmarseille.fr/sites/default/files/working_papers/wp_2022_-_nr_19.pdf)*
+### *[Male and female selection effects on gender wage gaps in three countries](https://www.sciencedirect.com/science/article/pii/S0927537124000022)*
 
-##### Revise and Resubmit at Labour Economics  
+##### Forthcoming at Labour Economics  - [https://doi.org/10.1016/j.labeco.2024.102506](https://doi.org/10.1016/j.labeco.2024.102506)
 
-  * **Abstract:** A vast literature on gender wage gaps has examined the importance of selection into employment. However, most analyses have focused only on female labour force participation and gaps at the median. The Great Recession questions this approach both because of the major shift in male employment that it implied but also because women’s decisions to participate seem to have been different along the distribution, particularly due to an “added worker effect”. This paper uses the methodology proposed by Arellano and Bonhomme (2017) to estimate a quantile selection model over the period 2007-2018. Using a tax and benefit mi- crosimulation model, I compute an instrument capturing the male selection induced by the crisis as well as female decisions: the potential out-of-work income. Since my instrument is crucially determined by the welfare state, I consider three countries with notably different benefit systems – the UK, France and Finland. My results imply different selection patterns across countries and a sizeable male selection in France and the UK. Correction for selection bias lowers the gender wage gap and, in most recent years, reveals an increasing shape of gender gap distribution with a substantial glass ceiling for the three countries.  
+  * **Abstract:** A vast literature on gender wage gaps has examined the importance of selection into employment. However, most analyses have focused only on female labour force participation and gaps at the median. The Great Recession questions this approach because of the major shift in male employment that it implied. This paper uses the methodology proposed by Arellano and Bonhomme (2017) to estimate a quantile selection model over the period 2007–2018. Using a tax and benefit microsimulation model, I compute an instrument capturing both male and female decisions to participate in the labour market: the potential out-of-work income. Since my instrument is crucially determined by the welfare state, I consider three countries with notably different benefit systems – the UK, France and Finland. My results imply different selection patterns across countries and a sizeable male selection in France and the UK. Correction for selection bias lowers the gender wage gap and reveals a substantial glass ceiling with different magnitudes. Findings suggest that disparities between these countries are driven by occupational segregation and public spending on families.
 {: .text-justify}
   * **Presentations:** EALE 2023 (Scheduled), LAGV 2023, Ninth ECINEQ Meeting of The Society for the Study of Economic Inequality, ECINEQ PhD Workshop participants at the London School of Economics, 14th Workshop on Labour Economics (IAAEU), the 4th QMUL Economics Workshop for PhD and Post-doctoral Students, the 2022 French Stata conference, PhD seminar at the Aix-Marseille School of Economics, Labour Chair seminar at the Paris School of Economics
+
+    <img src="https://github.com/elasskenza/website/blob/main/assets/Selection_wage.jpg?raw=true" width="130" height="100"> 
+
+
+# Working papers
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
