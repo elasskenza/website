@@ -19,8 +19,8 @@ elements:
 {: .notice--accent}
 
 
-* My research interests are in **applied labour**, **gender**, **digital** and **urban economics**.
-* My ongoing projects focus on gender gaps in the labour market, gender differences in the job search and stereotypes linked to skills and artificial intelligence. 
+* My research interests are in **applied labour**, **gender** and **urban economics**.
+* My ongoing projects focus on spatial disparities in gender wage gaps, gender differences in the job search and stereotypes linked to skills and artificial intelligence. 
    
 *  Before, I was a **PhD candidate** in economics at the [Aix Marseille School of Economics](https://www.amse-aixmarseille.fr/en/members/elass) (AMSE)  <img src="https://user-images.githubusercontent.com/47663697/204860013-a02021b6-32d1-4e85-8696-f0c746508ed3.png" width="100" height="70">   and at the [Labour Chair](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/) at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/doctorants/) <img src="https://user-images.githubusercontent.com/47663697/204859845-4e7ee211-1020-4452-93ae-98c7c5ed9d2d.png" width="50" height="70"> 
 
