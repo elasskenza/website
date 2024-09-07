@@ -11,6 +11,22 @@ elements:
 
 ---
 
+
+
+# Job Market Paper
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+### *What do women want in a job? Household constraints, gender-biased decisions and the reservation wage gap*
+
+#### Draft available upon request 
+
+  * **Abstract:** Recent explanations of the gender wage gap emphasize the role of gender differences in job search, yet the role of household constraints remains largely unexplored. This paper uses French administrative data from employment services to assess the role of gender-specific decisions in the reservation wage gap, and specifically how household constraints shape female reservation wage strategies. First, I assess which kind of occupations men and women apply for and the implications for the gender gap in reservation wages. Employing text analysis, I build a novel dataset classifying occupations with respect to several characteristics related to temporal flexibility and content of the job and examine to which extent men and women differ in the occupation they are looking for.  Quantile decomposition methods allow me to document an unequal gap in reservation wage, intensifying along the distribution, and partly explained by gender-biased choices in the amenities of the desired job.  Then, I assess how the reservation wage is impacted following a reform in October 2018 which increased the childcare benefits of single-parent households by 30%. Using a difference-in-difference strategy and spatial exposure in childcare services availability, the findings indicate that the reduction in childcare costs led women to decrease their reservation wages. Results also indicate that more affordable access to flexible childcare increases the likelihood of targeting occupations requiring greater temporal flexibility and the desired maximum commute enabling them to secure more stable jobs in reemmployment.
+{: .text-justify}
+  * **Presentations:** EEA-ESEM 2024, EALE 2024, Junior Economist Meeting 2024, 2024 Junior Research Day at College de France, Afépop 2024, AFSE 2023, European Association of Labour Economists (EALE) Conference 2022, International Association for Applied Econometrics (IAAE) Conference 2022, LAGV 2022, JMA 2022, Food for Thought seminar at Bocconi University, Labour Chair Seminar at the Paris School of Economics, Firms and market seminar at CREST, Core Brown Bag Seminar at Louvain University, ADRES 2023 and PhD seminar at the Aix Marseille School of Economics
+  * Scheduled: AReena Job Market Symposium 
+
 # Publications
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -28,19 +44,6 @@ elements:
 
 
 # Working papers
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-### *What do women want in a job? Household constraints, gender-biased decisions and the reservation wage gap*
-
-#### Draft available upon request 
-
-  * **Abstract:** Recent explanations of the gender wage gap emphasize the role of gender differences in job search, yet the underlying origins of these disparities remain largely unexplored. This paper assesses the role of gender-specific decisions and household constraints in the reservation wage gap during the job search using French administrative data from employment services. First, I assess which kind of occupations men and women apply for and the gap in their reservation
-wages. Employing text analysis, I build a novel dataset classifying occupations with respect to a number of characteristics and examine to which extent men and women differ in the occupation they are looking for. Quantile decomposition methods allow me to document an unequal gap in reservation wage, intensifying along the distribution, and explained by gender-biased choices. Then, I assess how the preferences in temporal flexibility and the reservation wage are impacted following a reform in October 2018 which increased the childcare benefits of single-parent households by 30%. Using a triple difference-in-difference strategy and the spatial exposure in childcare services availability, the findings indicate that the reduction in childcare costs led women to decrease their reservation wage and increase their likelihood to target occupations requiring greater temporal flexibility as well as their labour supply after a long career break. 
-{: .text-justify}
-  * **Presentations:** EEA-ESEM 2024, EALE 2024, Junior Economist Meeting 2024, 2024 Junior Research Day at College de France, Afépop 2024, AFSE 2023, European Association of Labour Economists (EALE) Conference 2022, International Association for Applied Econometrics (IAAE) Conference 2022, LAGV 2022, JMA 2022, Food for Thought seminar at Bocconi University, Labour Chair Seminar at the Paris School of Economics, Firms and market seminar at CREST, Core Brown Bag Seminar at Louvain University, ADRES 2023 and PhD seminar at the Aix Marseille School of Economics
-  * Scheduled: AReena Job Market Symposium 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
