@@ -18,6 +18,7 @@ elements:
  I am a **Post-doctoral researcher** in economics at <img src="https://github.com/elasskenza/website/blob/main/assets/Bocconi.png?raw=true" width="100" height="650">  [University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home)    and the [Axa Gender Lab](https://genderlab.unibocconi.eu/)  
 {: .notice--accent}
 
+* I will be on the **academic Job Market in 2024-2025**.
 
 * My research interests are in **applied labour**, **gender** and **urban economics**.
 * My ongoing projects focus on spatial disparities in gender wage gaps, gender differences in the job search and stereotypes linked to skills and artificial intelligence. 
