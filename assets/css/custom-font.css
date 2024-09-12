@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+/* Apply EB Garamond to all body text, including headers */
+html, body, h1, h2, h3, h4, h5, h6, p, a, div, span, li, input, button, textarea {
+    font-family: 'EB Garamond', serif !important;
+}
+
+
+/* Background and Base Colors */
+body {
+    background-color: #f7fbfc;  /* Light grey or off-white for an elegant look */
+    color: #080E4B;  /* Dark grey text for readability and elegance */
+}
+
+/* Header and Navigation Bar */
+header, nav {
+    background-color: #f7fbfc;  /* Dark base color for the header */
+    color: #000000;  /* White text */
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #cee5eb;  /* Warm accent color for hover effects (e.g., soft gold) */
+}
+
+/* Accent Colors for Titles and Links */
+h1, h2, h3, h4, h5, h6 {
+    color: #062a4f;  /* Dark navy blue for headers */
+}
+
+a {
+    color: #5393b8;  /* Accent color for links (gold tone) */
+}
+
+a:hover {
+    color: #2c3e50;  /* Dark navy hover effect */
+}
