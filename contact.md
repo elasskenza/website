@@ -12,6 +12,17 @@ elements:
   - markup  
 ---
 
+<style>
+
+/* Center the specific page title with a class */
+.page-title {
+    text-align: center; /* Centers the title */
+    font-style: normal; /* Removes the italic style */
+}
+
+
+</style>
+
 <i class="fa fa-envelope"></i> Don't hesitate to contact me at **[kenza.elass@unibocconi.it](kenza.elass@unibocconi.it)**
 
 ## Office address
