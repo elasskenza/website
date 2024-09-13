@@ -60,7 +60,7 @@ elements:
 
 /* Add vertical spacing before h1 */
 h1 {
-    margin-top: 40px; /* Adds vertical spacing before h1 */
+    margin-top: 50px; /* Adds vertical spacing before h1 */
 }
 </style>
 
@@ -160,10 +160,10 @@ Presentations: EALE 2023 (Scheduled), LAGV 2023, Ninth ECINEQ Meeting of The Soc
   </details>
 </div>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 # Selected work in progress 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   *  **_Gender Norms and Child Development_**, with Hélène Le Forner (CREM) 
   * **_Changing the media narrative: the role of social movements_**, with Caroline Coly (IEB) and Mahima Vasishth (Bocconi University) 
