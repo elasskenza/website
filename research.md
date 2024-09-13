@@ -62,6 +62,13 @@ elements:
 h1 {
     margin-top: 50px; /* Adds vertical spacing before h1 */
 }
+
+/* Center the specific page title with a class */
+.page-title {
+    text-align: center; /* Centers the title */
+    font-style: normal; /* Removes the italic style */
+}
+
 </style>
 
 
