@@ -10,6 +10,16 @@ elements:
   - markup  
 ---
 
+<style>
+
+/* Center the specific page title with a class */
+.page-title {
+    text-align: center; /* Centers the title */
+    font-style: normal; /* Removes the italic style */
+}
+
+</style>
+
 # Aix Marseille University
 
 * <ins>2019 - 2022:</ins> **Microeconomics**, Undergraduate-fr, 1st year 
