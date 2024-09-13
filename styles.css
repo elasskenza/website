@@ -1,0 +1,7 @@
+
+/* Center the title and description, and remove italic style */
+.centered-title, .centered-description {
+    text-align: center;  /* Centers the text */
+    font-style: normal;  /* Removes italics */
+    margin-top: 20px;    /* Adds some top margin for spacing */
+}
