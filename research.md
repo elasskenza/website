@@ -57,6 +57,11 @@ elements:
       flex-direction: column;
     }
   }
+
+/* Add vertical spacing before h1 */
+h1 {
+    margin-top: 40px; /* Adds vertical spacing before h1 */
+}
 </style>
 
 
