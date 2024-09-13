@@ -5,3 +5,10 @@
     font-style: normal;  /* Removes italics */
     margin-top: 20px;    /* Adds some top margin for spacing */
 }
+
+/* Make the website title bigger */
+.site-title {
+    font-size: 36px; /* Adjust as needed */
+    font-weight: bold;
+    text-align: center;
+}
