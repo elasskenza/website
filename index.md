@@ -28,7 +28,7 @@ elements:
    
 *  Before, I was a **PhD candidate** in economics at the [Aix Marseille School of Economics](https://www.amse-aixmarseille.fr/en/members/elass) (AMSE) and at the [Labour Chair](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/) at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/doctorants/)
 
-* In 2019, I started my PhD on the <i>supply side effects on gender wage inequality</i>, supervised by [Cecilia Garcia-Peñalosa](https://sites.google.com/view/ceciliagarciapenalosa) and [Christian Schluter](https://christianschluter.github.io/).
+* In 2019, I started my PhD on the <i>supply side effects on gender wage inequality</i>, supervised by [Cecilia Garcia-Peñalosa](https://sites.google.com/view/ceciliagarciapenalosa) and [Christian Schluter](https://christianschluter.github.io/). I defended my thesis in October 2023.
 
 * I am also on [X](https://twitter.com/ElassKenza).
 
