@@ -23,8 +23,9 @@ elements:
 * I will be on the **academic Job Market in 2024-2025**.
 
 * My research interests are in **applied labour**, **gender** and **urban economics**.
+* A key aspect of my research is the use of **text analysis methods** to collect new data.
 
-* My ongoing projects focus on spatial disparities in gender wage gaps, gender differences in the job search and stereotypes linked to skills and artificial intelligence. 
+* My ongoing projects focus on spatial disparities in gender wage gaps, gender differences in the **job search** and stereotypes linked to skills and **artificial intelligence**. 
    
 *  Before, I was a **PhD candidate** in economics at the [Aix Marseille School of Economics](https://www.amse-aixmarseille.fr/en/members/elass) (AMSE) and at the [Labour Chair](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/) at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/doctorants/)
 
