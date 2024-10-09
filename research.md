@@ -153,7 +153,7 @@ Presentations: EALE 2023 (Scheduled), LAGV 2023, Ninth ECINEQ Meeting of The Soc
 
 
 ### *Gender gaps in the urban wage premium*
- With Cecilia García-Peñalosa (AMSE, CNRS, EHESS) & Christian Schluter (AMSE) - [Link to the Working Paper](https://drive.google.com/file/d/1J18zTnQztCXFyi2CPf6kuWhTB35S_e0U/view) -  [Appendix](https://drive.google.com/file/d/1XK1jeGmbXEah44l8Fp0DoNe3CYC6LRDc/view)
+ With Cecilia García-Peñalosa (AMSE, CNRS, EHESS) & Christian Schluter (AMSE) - [Link to the Cesifo Working Paper](https://www.cesifo.org/en/publications/2024/working-paper/gender-gaps-urban-wage-premium) -  [Appendix](https://drive.google.com/file/d/1XK1jeGmbXEah44l8Fp0DoNe3CYC6LRDc/view)
 
 <div class="button-container">
 <details>
@@ -168,6 +168,9 @@ Presentations: EALE 2023 (Scheduled), LAGV 2023, Ninth ECINEQ Meeting of The Soc
   King’s Junior Research Day 2023, ADRES 2023, GRAPE 2023 Gender Gaps Conference, Bocconi Food for Thought seminar, PhD seminar at the Aix Marseille School of Economics, Paris School of Economics Labour Chair seminar; COSME workshop, 3rd Workshop on Public Policies, Urban Economics Association Conference 2024, IAAE Conference 2024
   </details>
 </div>
+
+###### Communication:
+[Nada es Gratis](https://nadaesgratis.es/admin/la-geografia-de-las-desigualdades-salariales-entre-mujeres-y-hombres)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
