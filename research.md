@@ -177,7 +177,7 @@ Presentations: EALE 2023 (Scheduled), LAGV 2023, Ninth ECINEQ Meeting of The Soc
 
 ### *Generative AI & Labor Market Discrimination*
  With Germain Gauthier (Bocconi University), Debora Nozza (Bocconi University) & Paola Profeta (Bocconi University)
-[Link to the AEA Pre-analysis Plan](https://www.socialscienceregistry.org/trials/13538/history/220793) - draft available upon request
+[Link to the AEA Pre-analysis Plan](https://www.socialscienceregistry.org/trials/13538/history/220793)  
  
   <div class="button-container">
 <details>
@@ -189,7 +189,7 @@ Presentations: EALE 2023 (Scheduled), LAGV 2023, Ninth ECINEQ Meeting of The Soc
 
 <details>
   <summary>Presentations</summary>
-  Dondena AI and Society Initiative Seminar at Bocconi University
+  Dondena AI and Society Initiative Seminar at Bocconi University, Advanced AI Methods Workshop
   </details>
 </div>
 
