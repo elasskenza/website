@@ -1,5 +1,4 @@
 ---
-title: Research
 layout: page
 permalink: /research/
 elements:
@@ -153,7 +152,7 @@ Presentations: EALE 2023 (Scheduled), LAGV 2023, Ninth ECINEQ Meeting of The Soc
 
 
 ### *Gender gaps in the urban wage premium*
- With Cecilia García-Peñalosa (AMSE, CNRS, EHESS) & Christian Schluter (AMSE) - [Link to the Cesifo Working Paper](https://www.cesifo.org/en/publications/2024/working-paper/gender-gaps-urban-wage-premium) -  [Appendix](https://drive.google.com/file/d/1XK1jeGmbXEah44l8Fp0DoNe3CYC6LRDc/view)
+ With Cecilia García-Peñalosa (AMSE, CNRS, EHESS) & Christian Schluter (AMSE) - [Link to the CEPR Working Paper](https://cepr.org/publications/dp19592) [Link to the CESifo Working Paper](https://www.cesifo.org/en/publications/2024/working-paper/gender-gaps-urban-wage-premium) -  [Appendix](https://drive.google.com/file/d/1XK1jeGmbXEah44l8Fp0DoNe3CYC6LRDc/view)
 
 <div class="button-container">
 <details>
