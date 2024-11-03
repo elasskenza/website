@@ -22,7 +22,7 @@ elements:
 
 * I will be on the **academic Job Market in 2024-2025**.
 
-* My research interests are in **applied labour**, **gender** and **urban economics**.
+* My research interests are in **applied labour**, **gender**, **digital** and **urban economics**.
 * A key aspect of my research is the use of **text analysis methods** to collect new data.
 
 * My ongoing projects focus on spatial disparities in gender wage gaps, gender differences in the **job search** and stereotypes linked to skills and **artificial intelligence**. 
