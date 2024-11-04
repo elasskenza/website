@@ -208,6 +208,7 @@ Presentations: EALE 2023 (Scheduled), LAGV 2023, Ninth ECINEQ Meeting of The Soc
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   *  **_Gender Norms and Child Development_**, with Hélène Le Forner (CREM) 
-  * **_Changing the media narrative: the role of social movements_**, with Caroline Coly (IEB) and Mahima Vasishth (Bocconi University) 
+  * **_Changing the media narrative: the role of social movements_**, with Caroline Coly (IEB) and Mahima Vasishth (Bocconi University)
+  * **_Is artificial intelligence turning the tables on gender wage inequality?_**, With Fabien Petit (UCL, University of Barcelona) and Paola Profeta (Bocconi University) 
 
 
