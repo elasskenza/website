@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "CV"
 categories:
   - Markup
 elements:
