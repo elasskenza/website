@@ -1,5 +1,4 @@
 ---
-title: Contact
 subtitle: how to contact me?
 layout: page
 permalink: /contact/
