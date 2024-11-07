@@ -229,6 +229,11 @@ Presentations: EALE 2023 (Scheduled), LAGV 2023, Ninth ECINEQ Meeting of The Soc
 
 <details>
   <summary>Paper</summary>
-   <object data="../assets/pdf/Elass_profeta_AI_Gender.pdf" width="1000" height="1000" type='application/pdf'></object>
-  </details>
-</div>
+  <div style="overflow: auto; -webkit-overflow-scrolling: touch;">
+      <iframe src="../assets/pdf/Elass_profeta_AI_Gender.pdf" style="width: 100%; height: 80vh;" frameborder="0">
+          This browser does not support PDFs. Please download the PDF to view it: 
+          <a href="../assets/pdf/Elass_profeta_AI_Gender.pdf">Download PDF</a>.
+      </iframe>
+  </div>
+</details>
+
