@@ -212,3 +212,23 @@ Presentations: EALE 2023 (Scheduled), LAGV 2023, Ninth ECINEQ Meeting of The Soc
   * **_Is artificial intelligence turning the tables on gender wage inequality?_**, With Fabien Petit (UCL, University of Barcelona) and Paola Profeta (Bocconi University) 
 
 
+# Other writing - General audience 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### *Threat or opportunity? The impact of AI on women*
+ With Paola Profeta (Bocconi University)
+
+  <div class="button-container">
+<details>
+  <summary>Abstract</summary>
+    <p class="text-justify">
+	The adoption of AI in various sectors has led to changes that present both opportunities and challenges for gender equality. Although AI appears to be less biased than human decision-makers, the literature also suggests it perpetuates stereotypes and inequalities between men and women. The unequal use of AI tools, combined with existing disparities in education and employment, may further disadvantage women in the labour market. In addition, AI's influence on employment, wage inequality and gender bias in healthcare has not been sufficiently studied, raising ethical questions about the fairness and transparency of these technologies. Addressing these challenges involves an increase in diversity in data-science teams, diverse and representative datasets, and promoting gender-inclusive training programs. Ultimately, the impact of AI on gender equality will depend on today's initiatives to neutralize the effects of AI.
+  </p>
+</details>
+
+<details>
+  <summary>Paper</summary>
+   <object data="../assets/pdf/Elass_profeta_AI_Gender.pdf" width="1000" height="1000" type='application/pdf'></object>
+  </details>
+</div>
