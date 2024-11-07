@@ -20,7 +20,7 @@ locale: en-US
 
 title: Kenza Elass
 email: kenza.elass@unibocconi.it
-description: "Post-doctoral researcher in Applied Labour and Gender Economics at Bocconi University and AXA Gender Lab."
+description: "Post-doctoral researcher in Applied Labour, Digital and Gender Economics at Bocconi University and AXA Gender Lab."
 twitter_username: ElassKenza
 
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -115,7 +115,7 @@ defaults:
 author:
   name   : "Kenza Elass"
   avatar : ""
-  bio    : "PhD candidate in Labour and Gender Economics at the Aix-Marseille School of Economics."
+  bio    : "Post-doctoral researcher in Applied Labour, Digital and Gender Economics at Bocconi University."
   location : "France"
   links:
    - label: "Twitter"
