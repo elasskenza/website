@@ -168,7 +168,7 @@ Presentations: EALE 2023 (Scheduled), LAGV 2023, Ninth ECINEQ Meeting of The Soc
   </details>
 </div>
 
-**Forthcoming Presentation:** [CEPR MESIE Conference](https://cepr.org/events/third-middle-east-spatial-and-international-economics-conference-mesie)
+**Scheduled Presentation:** [CEPR MESIE Conference](https://cepr.org/events/third-middle-east-spatial-and-international-economics-conference-mesie)
 {: .notice--success}
 
 ###### Communication:
