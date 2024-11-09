@@ -33,7 +33,7 @@ elements:
 
 * I am also on [X](https://twitter.com/ElassKenza).
 
-**Forthcoming Presentations:** [CEPR MESIE Conference](https://cepr.org/events/third-middle-east-spatial-and-international-economics-conference-mesie)
+**Scheduled Presentation:** [CEPR MESIE Conference](https://cepr.org/events/third-middle-east-spatial-and-international-economics-conference-mesie)
 {: .notice--success}
 
 <i class="fa fa-envelope"></i> **Contact**: kenza.elass@unibocconi.it  
