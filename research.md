@@ -222,13 +222,14 @@ Presentations: EALE 2023 (Scheduled), LAGV 2023, Ninth ECINEQ Meeting of The Soc
   * **_Changing the media narrative: the role of social movements_**, with Caroline Coly (IEB) and Mahima Vasishth (Bocconi University)
   * **_Is artificial intelligence turning the tables on gender wage inequality?_**, With Fabien Petit (UCL, University of Barcelona) and Paola Profeta (Bocconi University) 
 
-
+<br>
+<br>
+<br>
 
 
 <section>
   <h2>Other Writing - General Audience</h2>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   <h3><i>Threat or opportunity? The impact of AI on women</i></h3>
   <p>With Paola Profeta (Bocconi University)</p>
