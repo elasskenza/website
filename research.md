@@ -223,35 +223,38 @@ Presentations: EALE 2023 (Scheduled), LAGV 2023, Ninth ECINEQ Meeting of The Soc
   * **_Is artificial intelligence turning the tables on gender wage inequality?_**, With Fabien Petit (UCL, University of Barcelona) and Paola Profeta (Bocconi University) 
 
 
-# Other writing - General audience 
+<section>
+  <h2>Other Writing - General Audience</h2>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### *Threat or opportunity? The impact of AI on women*
- With Paola Profeta (Bocconi University)
+  <h3><i>Threat or opportunity? The impact of AI on women</i></h3>
+  <p>With Paola Profeta (Bocconi University)</p>
 
   <div class="button-container">
-<details>
-  <summary>Abstract</summary>
-    <p class="text-justify">
-	The adoption of AI in various sectors has led to changes that present both opportunities and challenges for gender equality. Although AI appears to be less biased than human decision-makers, the literature also suggests it perpetuates stereotypes and inequalities between men and women. The unequal use of AI tools, combined with existing disparities in education and employment, may further disadvantage women in the labour market. In addition, AI's influence on employment, wage inequality and gender bias in healthcare has not been sufficiently studied, raising ethical questions about the fairness and transparency of these technologies. Addressing these challenges involves an increase in diversity in data-science teams, diverse and representative datasets, and promoting gender-inclusive training programs. Ultimately, the impact of AI on gender equality will depend on today's initiatives to neutralize the effects of AI.
-  </p>
-</details>
+    <details>
+      <summary>Abstract</summary>
+      <p class="text-justify">
+        The adoption of AI in various sectors has led to changes that present both opportunities and challenges for gender equality. Although AI appears to be less biased than human decision-makers, the literature also suggests it perpetuates stereotypes and inequalities between men and women. The unequal use of AI tools, combined with existing disparities in education and employment, may further disadvantage women in the labour market. In addition, AI's influence on employment, wage inequality and gender bias in healthcare has not been sufficiently studied, raising ethical questions about the fairness and transparency of these technologies. Addressing these challenges involves an increase in diversity in data-science teams, diverse and representative datasets, and promoting gender-inclusive training programs. Ultimately, the impact of AI on gender equality will depend on today's initiatives to neutralize the effects of AI.
+      </p>
+    </details>
 
-<details>
-  <summary>Paper</summary>
-  <div style="overflow: auto; -webkit-overflow-scrolling: touch;">
-      <iframe src="../assets/pdf/Elass_profeta_AI_Gender.pdf" style="width: 100%; height: 80vh;" frameborder="0">
-          This browser does not support PDFs. Please download the PDF to view it: 
+    <details>
+      <summary>Paper</summary>
+      <div>
+        <iframe src="../assets/pdf/Elass_profeta_AI_Gender.pdf" style="width: 100%; height: 80vh;" frameborder="0">
+          This browser does not support PDFs. Please download the PDF to view it:
           <a href="../assets/pdf/Elass_profeta_AI_Gender.pdf">Download PDF</a>.
-      </iframe>
+        </iframe>
+      </div>
+    </details>
   </div>
-</details>
 
-<div>
+  <div>
+    <h4>Communication</h4>
+    <p>
+      <a href="https://www.repubblica.it/dossier/economia/top-story/2024/11/11/news/ia_opportunita_e_minaccia_per_l_uguaglianza_di_genere-423611448/" target="_blank">
+        La Repubblica
+      </a>
+    </p>
+  </div>
+</section>
 
-#### Communication
-
-[La Repubblica](https://www.repubblica.it/dossier/economia/top-story/2024/11/11/news/ia_opportunita_e_minaccia_per_l_uguaglianza_di_genere-423611448/)
-
-</div>
