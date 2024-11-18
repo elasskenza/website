@@ -252,4 +252,6 @@ Presentations: EALE 2023 (Scheduled), LAGV 2023, Ninth ECINEQ Meeting of The Soc
 
 #### Communication
 
+[La Repubblica](https://www.repubblica.it/dossier/economia/top-story/2024/11/11/news/ia_opportunita_e_minaccia_per_l_uguaglianza_di_genere-423611448/)
 
+</div>
