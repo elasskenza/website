@@ -83,7 +83,7 @@ section {
 
 ### *What do women want in a job? Household constraints, gender-biased decisions and the reservation wage gap*
 
-##### Draft available upon request 
+##### Draft available here: [Dropbox link](https://www.dropbox.com/scl/fi/vcikrhj1dvwrig3jwfnvj/JMP_Kenza_Elass.pdf?rlkey=kncf3g3ofj1zgbz53vc098nuh&st=e6poxbut&dl=0)
 
 <div class="button-container">
 <details>
