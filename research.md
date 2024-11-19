@@ -203,6 +203,7 @@ Presentations: EALE 2023 (Scheduled), LAGV 2023, Ninth ECINEQ Meeting of The Soc
   </details>
 </div>
 
+**Supported by the [Women and Science](https://dauphine.psl.eu/en/women-and-science) Chair Grant**
 
 
 
