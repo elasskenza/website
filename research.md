@@ -140,7 +140,7 @@ section {
  
 <details>
   <summary>Presentations</summary>
-Presentations: EALE 2023 (Scheduled), LAGV 2023, Ninth ECINEQ Meeting of The Society for the Study of Economic Inequality, ECINEQ PhD Workshop participants at the London School of Economics, 14th Workshop on Labour Economics (IAAEU), the 4th QMUL Economics Workshop for PhD and Post-doctoral Students, the 2022 French Stata conference, PhD seminar at the Aix-Marseille School of Economics, Labour Chair seminar at the Paris School of Economics
+Presentations: EALE 2023, LAGV 2023, Ninth ECINEQ Meeting of The Society for the Study of Economic Inequality, ECINEQ PhD Workshop participants at the London School of Economics, 14th Workshop on Labour Economics (IAAEU), the 4th QMUL Economics Workshop for PhD and Post-doctoral Students, the 2022 French Stata conference, PhD seminar at the Aix-Marseille School of Economics, Labour Chair seminar at the Paris School of Economics
 </details>
 </div>
 
