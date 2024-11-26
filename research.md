@@ -212,33 +212,36 @@ section {
 </div>
 
 <script>
-const carouselImages = document.querySelector('.carousel-images');
-const images = document.querySelectorAll('.carousel img');
-const prevButton = document.querySelector('.carousel-button.prev');
-const nextButton = document.querySelector('.carousel-button.next');
+document.querySelectorAll('.carousel').forEach((carousel) => {
+  const carouselImages = carousel.querySelector('.carousel-images');
+  const images = carousel.querySelectorAll('.carousel img');
+  const prevButton = carousel.querySelector('.carousel-button.prev');
+  const nextButton = carousel.querySelector('.carousel-button.next');
 
-let currentIndex = 0;
+  let currentIndex = 0;
 
-function updateCarousel() {
-  const width = images[0].clientWidth;
-  carouselImages.style.transform = `translateX(-${currentIndex * width}px)`;
-}
+  function updateCarousel() {
+    const width = images[0].clientWidth;
+    carouselImages.style.transform = `translateX(-${currentIndex * width}px)`;
+  }
 
-function nextImage() {
-  currentIndex = (currentIndex + 1) % images.length;
-  updateCarousel();
-}
+  function nextImage() {
+    currentIndex = (currentIndex + 1) % images.length;
+    updateCarousel();
+  }
 
-function prevImage() {
-  currentIndex = (currentIndex - 1 + images.length) % images.length;
-  updateCarousel();
-}
+  function prevImage() {
+    currentIndex = (currentIndex - 1 + images.length) % images.length;
+    updateCarousel();
+  }
 
-nextButton.addEventListener('click', nextImage);
-prevButton.addEventListener('click', prevImage);
+  nextButton.addEventListener('click', nextImage);
+  prevButton.addEventListener('click', prevImage);
 
-// Optional: Auto-rotate every 10 seconds
-setInterval(nextImage, 10000);
+  // Auto-rotate every 10 seconds
+  setInterval(nextImage, 10000);
+});
+
 </script>
 
 
@@ -294,33 +297,35 @@ Presentations: EALE 2023, LAGV 2023, Ninth ECINEQ Meeting of The Society for the
 </div>
 
 <script>
-const carouselImages = document.querySelector('.carousel-images');
-const images = document.querySelectorAll('.carousel img');
-const prevButton = document.querySelector('.carousel-button.prev');
-const nextButton = document.querySelector('.carousel-button.next');
+document.querySelectorAll('.carousel').forEach((carousel) => {
+  const carouselImages = carousel.querySelector('.carousel-images');
+  const images = carousel.querySelectorAll('.carousel img');
+  const prevButton = carousel.querySelector('.carousel-button.prev');
+  const nextButton = carousel.querySelector('.carousel-button.next');
 
-let currentIndex = 0; // Start at the first image
+  let currentIndex = 0;
 
-function updateCarousel() {
-  const width = images[0].clientWidth; // Get the width of one image
-  carouselImages.style.transform = `translateX(-${currentIndex * width}px)`; // Shift the container
-}
+  function updateCarousel() {
+    const width = images[0].clientWidth;
+    carouselImages.style.transform = `translateX(-${currentIndex * width}px)`;
+  }
 
-function nextImage() {
-  currentIndex = (currentIndex + 1) % images.length; // Increment index, loop back to start if needed
-  updateCarousel();
-}
+  function nextImage() {
+    currentIndex = (currentIndex + 1) % images.length;
+    updateCarousel();
+  }
 
-function prevImage() {
-  currentIndex = (currentIndex - 1 + images.length) % images.length; // Decrement index, loop to end if needed
-  updateCarousel();
-}
+  function prevImage() {
+    currentIndex = (currentIndex - 1 + images.length) % images.length;
+    updateCarousel();
+  }
 
-nextButton.addEventListener('click', nextImage);
-prevButton.addEventListener('click', prevImage);
+  nextButton.addEventListener('click', nextImage);
+  prevButton.addEventListener('click', prevImage);
 
-// Auto-rotate every 10 seconds
-setInterval(nextImage, 10000);
+  // Auto-rotate every 10 seconds
+  setInterval(nextImage, 10000);
+});
 
 </script>
 
