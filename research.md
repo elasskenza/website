@@ -299,28 +299,29 @@ const images = document.querySelectorAll('.carousel img');
 const prevButton = document.querySelector('.carousel-button.prev');
 const nextButton = document.querySelector('.carousel-button.next');
 
-let currentIndex = 0;
+let currentIndex = 0; // Start at the first image
 
 function updateCarousel() {
-  const width = images[0].clientWidth;
-  carouselImages.style.transform = `translateX(-${currentIndex * width}px)`;
+  const width = images[0].clientWidth; // Get the width of one image
+  carouselImages.style.transform = `translateX(-${currentIndex * width}px)`; // Shift the container
 }
 
 function nextImage() {
-  currentIndex = (currentIndex + 1) % images.length;
+  currentIndex = (currentIndex + 1) % images.length; // Increment index, loop back to start if needed
   updateCarousel();
 }
 
 function prevImage() {
-  currentIndex = (currentIndex - 1 + images.length) % images.length;
+  currentIndex = (currentIndex - 1 + images.length) % images.length; // Decrement index, loop to end if needed
   updateCarousel();
 }
 
 nextButton.addEventListener('click', nextImage);
 prevButton.addEventListener('click', prevImage);
 
-// Optional: Auto-rotate every 10 seconds
+// Auto-rotate every 10 seconds
 setInterval(nextImage, 10000);
+
 </script>
 
 
