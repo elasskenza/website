@@ -31,7 +31,7 @@ elements:
 
 * In 2019, I started my PhD on the <i>supply side effects on gender wage inequality</i>, supervised by [Cecilia Garcia-Peñalosa](https://sites.google.com/view/ceciliagarciapenalosa) and [Christian Schluter](https://christianschluter.github.io/). I defended my thesis in October 2023.
 
-* I am also on [X](https://twitter.com/ElassKenza) and [BlueSky](@kenza-elass.bsky.social).
+* I am also on [X](https://twitter.com/ElassKenza) and [BlueSky](https://bsky.app/profile/kenza-elass.bsky.social).
 
 **Scheduled Presentation:** [CEPR MESIE Conference](https://cepr.org/events/third-middle-east-spatial-and-international-economics-conference-mesie)
 {: .notice--success}
