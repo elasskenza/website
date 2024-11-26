@@ -335,8 +335,17 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-### *Gender gaps in the urban wage premium*
- With Cecilia García-Peñalosa (AMSE, CNRS, EHESS) & Christian Schluter (AMSE) - [Link to the CEPR Working Paper](https://cepr.org/publications/dp19592) [Link to the CESifo Working Paper](https://www.cesifo.org/en/publications/2024/working-paper/gender-gaps-urban-wage-premium) -  [Appendix](https://drive.google.com/file/d/1XK1jeGmbXEah44l8Fp0DoNe3CYC6LRDc/view)
+<div class="jmp-container">
+  
+<!-- Left-hand side: Markdown content -->
+<div class="jmp-content">
+
+    <h3><em>Gender gaps in the urban wage premium*</em></h3>
+	
+ With Cecilia García-Peñalosa (AMSE, CNRS, EHESS) & Christian Schluter (AMSE) -
+ <a href="https://cepr.org/publications/dp19592">Link to the CEPR Working Paper</a> 
+      <a href="https://www.cesifo.org/en/publications/2024/working-paper/gender-gaps-urban-wage-premium">Link to the CESifo Working Paper</a>
+	  <a href="https://drive.google.com/file/d/1XK1jeGmbXEah44l8Fp0DoNe3CYC6LRDc/view">Appendix</a>
 
 <div class="button-container">
 <details>
@@ -352,11 +361,10 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
   </details>
 </div>
 
-**Scheduled Presentation:** [CEPR MESIE Conference](https://cepr.org/events/third-middle-east-spatial-and-international-economics-conference-mesie)
-{: .notice--success}
+<p><strong>Scheduled Presentation:</strong> <a href="https://cepr.org/events/third-middle-east-spatial-and-international-economics-conference-mesie" target="_blank">CEPR MESIE Conference</a></p>
 
-###### Communication:
-[Nada es Gratis](https://nadaesgratis.es/admin/la-geografia-de-las-desigualdades-salariales-entre-mujeres-y-hombres)
+<h6>Communication:</h6>
+<p><a href="https://nadaesgratis.es/admin/la-geografia-de-las-desigualdades-salariales-entre-mujeres-y-hombres" target="_blank">Nada es Gratis</a></p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
