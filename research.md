@@ -279,10 +279,10 @@ Presentations: EALE 2023, LAGV 2023, Ninth ECINEQ Meeting of The Society for the
 
 <div class="carousel">
   <div class="carousel-images">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/selection/1.png" alt="Slide 1">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/selection/2.png" alt="Slide 2">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/selection/3.png" alt="Slide 3">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/selection/4.png" alt="Slide 4">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/selection/1.png" alt="Slide sel1">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/selection/2.png" alt="Slide sel2">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/selection/3.png" alt="Slide sel3">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/selection/4.png" alt="Slide sel4">
   </div>
   <div class="carousel-buttons">
     <button class="carousel-button prev">❮</button>
