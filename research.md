@@ -72,6 +72,74 @@ section {
     font-style: normal; /* Removes the italic style */
 }
 
+ .jmp-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+  }
+
+  .jmp-content {
+    flex: 2; /* Content takes up more space */
+  }
+
+  .jmp-carousel {
+    flex: 1; /* Carousel takes up less space */
+  }
+
+.carousel {
+  position: relative;
+  max-width: 600px; /* Define the maximum width of the carousel */
+  margin: 0 auto; /* Center the carousel */
+  overflow: hidden;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #f9f9f9; /* Optional: Add a background for visibility */
+}
+
+.carousel-images {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.carousel img {
+  width: 100%; /* Ensures images scale with the carousel width */
+  flex-shrink: 0;
+}
+
+.carousel-buttons {
+  position: absolute;
+  top: 50%; /* Vertically center the buttons */
+  width: 100%; /* The buttons span the entire carousel width */
+  display: flex;
+  justify-content: space-between; /* Position buttons to the left and right */
+  transform: translateY(-50%); /* Align with the middle of the carousel */
+  pointer-events: none; /* Prevent the buttons from blocking image clicks */
+}
+
+.carousel-button {
+  background: rgba(0, 0, 0, 0.6); /* Semi-transparent background for buttons */
+  color: white;
+  border: none;
+  padding: 15px;
+  cursor: pointer;
+  pointer-events: auto; /* Allow buttons to be clickable */
+  border-radius: 50%;
+  z-index: 2; /* Ensure buttons are above images */
+}
+
+.carousel-button.prev {
+  margin-left: 10px; /* Slight space from the left edge */
+}
+
+.carousel-button.next {
+  margin-right: 10px; /* Slight space from the right edge */
+}
+
+.carousel-button:hover {
+  background: rgba(0, 0, 0, 0.8); /* Darker background on hover */
+}
+
+
 
 </style>
 
@@ -81,9 +149,16 @@ section {
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-### *What do women want in a job? Household constraints, gender-biased decisions and the reservation wage gap*
 
-##### Draft available here: [Dropbox link](https://www.dropbox.com/scl/fi/vcikrhj1dvwrig3jwfnvj/JMP_Kenza_Elass.pdf?rlkey=kncf3g3ofj1zgbz53vc098nuh&st=e6poxbut&dl=0)
+<div class="jmp-container">
+  
+<!-- Left-hand side: Markdown content -->
+<div class="jmp-content">
+
+    <h3><em>What do women want in a job? Household constraints, gender-biased decisions and the reservation wage gap</em></h3>
+    <h5>Draft available here: 
+      <a href="https://www.dropbox.com/scl/fi/vcikrhj1dvwrig3jwfnvj/JMP_Kenza_Elass.pdf?rlkey=kncf3g3ofj1zgbz53vc098nuh&st=e6poxbut&dl=0">Dropbox link</a>
+    </h5>
 
 <div class="button-container">
 <details>
@@ -111,9 +186,56 @@ section {
   </div>
 </details>
 
+</div>
 
+<!-- Right-hand side: Carousel -->
+<div class="jmp-carousel">
 
+<div class="carousel">
+  <div class="carousel-images">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_2.png" alt="Slide 1">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_4.png" alt="Slide 2">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_5.png" alt="Slide 3">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_6.png" alt="Slide 4">
+  </div>
+  <div class="carousel-buttons">
+    <button class="carousel-button prev">❮</button>
+    <button class="carousel-button next">❯</button>
+  </div>
+</div>
 
+</div>
+</div>
+
+<script>
+const carouselImages = document.querySelector('.carousel-images');
+const images = document.querySelectorAll('.carousel img');
+const prevButton = document.querySelector('.carousel-button.prev');
+const nextButton = document.querySelector('.carousel-button.next');
+
+let currentIndex = 0;
+
+function updateCarousel() {
+  const width = images[0].clientWidth;
+  carouselImages.style.transform = `translateX(-${currentIndex * width}px)`;
+}
+
+function nextImage() {
+  currentIndex = (currentIndex + 1) % images.length;
+  updateCarousel();
+}
+
+function prevImage() {
+  currentIndex = (currentIndex - 1 + images.length) % images.length;
+  updateCarousel();
+}
+
+nextButton.addEventListener('click', nextImage);
+prevButton.addEventListener('click', prevImage);
+
+// Optional: Auto-rotate every 10 seconds
+setInterval(nextImage, 10000);
+</script>
 
 
 
