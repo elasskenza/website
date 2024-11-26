@@ -197,6 +197,10 @@ section {
     <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_4.png" alt="Slide 2">
     <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_5.png" alt="Slide 3">
     <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_6.png" alt="Slide 4">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_8.png" alt="Slide 5">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_9.png" alt="Slide 6">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_10.png" alt="Slide 7">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_11.png" alt="Slide 8">
   </div>
   <div class="carousel-buttons">
     <button class="carousel-button prev">❮</button>
