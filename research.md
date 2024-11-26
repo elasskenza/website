@@ -429,7 +429,8 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 
     <h3><em>Generative AI & Labor Market Discrimination</em></h3>
  With Germain Gauthier (Bocconi University), Debora Nozza (Bocconi University) & Paola Profeta (Bocconi University) - <a href="https://www.socialscienceregistry.org/trials/13538/history/220793">Link to the AEA Pre-analysis Plan</a>  
- 
+<br>
+<br>
   <div class="button-container">
 <details>
   <summary>Abstract</summary>
@@ -444,7 +445,7 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
   </details>
 </div>
 
-<em>Supported by the  <a href="https://dauphine.psl.eu/en/women-and-science">Women and Science</a> Chair Grant</em>
+<e>Supported by the  <a href="https://dauphine.psl.eu/en/women-and-science">Women and Science</a> Chair Grant</e>
 
 
 </div>
@@ -454,11 +455,11 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 
 <div class="carousel">
   <div class="carousel-images">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv_1.png" alt="Slide 1">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv_2.png" alt="Slide 2">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv_3.png" alt="Slide 3">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv_4.png" alt="Slide 4">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv_5.png" alt="Slide 5">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/1.png" alt="Slide 1">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/2.png" alt="Slide 2">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/3.png" alt="Slide 3">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/4.png" alt="Slide 4">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/5.png" alt="Slide 5">
   </div>
   <div class="carousel-buttons">
     <button class="carousel-button prev">❮</button>
