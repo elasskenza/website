@@ -340,12 +340,13 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 <!-- Left-hand side: Markdown content -->
 <div class="jmp-content">
 
-    <h3><em>Gender gaps in the urban wage premium*</em></h3>
+    <h3><em>Gender gaps in the urban wage premium</em></h3>
 	
  With Cecilia García-Peñalosa (AMSE, CNRS, EHESS) & Christian Schluter (AMSE) -
- <a href="https://cepr.org/publications/dp19592">Link to the CEPR Working Paper</a> 
-      <a href="https://www.cesifo.org/en/publications/2024/working-paper/gender-gaps-urban-wage-premium">Link to the CESifo Working Paper</a>
+ <a href="https://cepr.org/publications/dp19592">Link to the CEPR Working Paper</a> - 
+      <a href="https://www.cesifo.org/en/publications/2024/working-paper/gender-gaps-urban-wage-premium">Link to the CESifo Working Paper</a> - 
 	  <a href="https://drive.google.com/file/d/1XK1jeGmbXEah44l8Fp0DoNe3CYC6LRDc/view">Appendix</a>
+<br>
 <br>
 <div class="button-container">
 <details>
