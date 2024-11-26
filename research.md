@@ -242,18 +242,19 @@ setInterval(nextImage, 10000);
 </script>
 
 
-
-<br>
-<br>
-<br>
 	
 # Publications
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### *[Male and female selection effects on gender wage gaps in three countries](https://www.sciencedirect.com/science/article/pii/S0927537124000022)*
+<div class="jmp-container">
+  
+<!-- Left-hand side: Markdown content -->
+<div class="jmp-content">
 
-##### Published at Labour Economics  - [https://doi.org/10.1016/j.labeco.2024.102506](https://doi.org/10.1016/j.labeco.2024.102506)
+    <h3><em><a href="https://www.sciencedirect.com/science/article/pii/S0927537124000022">Male and female selection effects on gender wage gaps in three countries</a></em></h3>
+
+    <h5>Published at Labour Economics - <a href="https://doi.org/10.1016/j.labeco.2024.102506">https://doi.org/10.1016/j.labeco.2024.102506</a></h5>
 
 <div class="button-container">
 <details>
@@ -271,14 +272,57 @@ Presentations: EALE 2023, LAGV 2023, Ninth ECINEQ Meeting of The Society for the
 </div>
 
 
+</div>
 
+<!-- Right-hand side: Carousel -->
+<div class="jmp-carousel">
 
+<div class="carousel">
+  <div class="carousel-images">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/selection/1.png" alt="Slide 1">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/selection/2.png" alt="Slide 2">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/selection/3.png" alt="Slide 3">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/selection/4.png" alt="Slide 4">
+  </div>
+  <div class="carousel-buttons">
+    <button class="carousel-button prev">❮</button>
+    <button class="carousel-button next">❯</button>
+  </div>
+</div>
 
+</div>
+</div>
 
+<script>
+const carouselImages = document.querySelector('.carousel-images');
+const images = document.querySelectorAll('.carousel img');
+const prevButton = document.querySelector('.carousel-button.prev');
+const nextButton = document.querySelector('.carousel-button.next');
 
-<br>
-<br>
-<br>
+let currentIndex = 0;
+
+function updateCarousel() {
+  const width = images[0].clientWidth;
+  carouselImages.style.transform = `translateX(-${currentIndex * width}px)`;
+}
+
+function nextImage() {
+  currentIndex = (currentIndex + 1) % images.length;
+  updateCarousel();
+}
+
+function prevImage() {
+  currentIndex = (currentIndex - 1 + images.length) % images.length;
+  updateCarousel();
+}
+
+nextButton.addEventListener('click', nextImage);
+prevButton.addEventListener('click', prevImage);
+
+// Optional: Auto-rotate every 10 seconds
+setInterval(nextImage, 10000);
+</script>
+
 
 # Working Papers
 
