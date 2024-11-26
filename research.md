@@ -346,7 +346,7 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
  <a href="https://cepr.org/publications/dp19592">Link to the CEPR Working Paper</a> 
       <a href="https://www.cesifo.org/en/publications/2024/working-paper/gender-gaps-urban-wage-premium">Link to the CESifo Working Paper</a>
 	  <a href="https://drive.google.com/file/d/1XK1jeGmbXEah44l8Fp0DoNe3CYC6LRDc/view">Appendix</a>
-
+<br>
 <div class="button-container">
 <details>
   <summary>Abstract</summary>
@@ -363,8 +363,7 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 
 <p><strong>Scheduled Presentation:</strong> <a href="https://cepr.org/events/third-middle-east-spatial-and-international-economics-conference-mesie" target="_blank">CEPR MESIE Conference</a></p>
 
-<h6>Communication:</h6>
-<p><a href="https://nadaesgratis.es/admin/la-geografia-de-las-desigualdades-salariales-entre-mujeres-y-hombres" target="_blank">Nada es Gratis</a></p>
+<h6>Communication: <p><a href="https://nadaesgratis.es/admin/la-geografia-de-las-desigualdades-salariales-entre-mujeres-y-hombres" target="_blank">Nada es Gratis</a></p> </h6>
 
 </div>
 
@@ -373,14 +372,9 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 
 <div class="carousel">
   <div class="carousel-images">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_2.png" alt="Slide 1">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_4.png" alt="Slide 2">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_5.png" alt="Slide 3">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_6.png" alt="Slide 4">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_8.png" alt="Slide 5">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_9.png" alt="Slide 6">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_10.png" alt="Slide 7">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_11.png" alt="Slide 8">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/uwp/1.png" alt="Slide 1">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/uwp/2.png" alt="Slide 2">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/uwp/3.png" alt="Slide 3">
   </div>
   <div class="carousel-buttons">
     <button class="carousel-button prev">❮</button>
