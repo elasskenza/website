@@ -366,6 +366,64 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 <h6>Communication:</h6>
 <p><a href="https://nadaesgratis.es/admin/la-geografia-de-las-desigualdades-salariales-entre-mujeres-y-hombres" target="_blank">Nada es Gratis</a></p>
 
+</div>
+
+<!-- Right-hand side: Carousel -->
+<div class="jmp-carousel">
+
+<div class="carousel">
+  <div class="carousel-images">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_2.png" alt="Slide 1">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_4.png" alt="Slide 2">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_5.png" alt="Slide 3">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_6.png" alt="Slide 4">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_8.png" alt="Slide 5">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_9.png" alt="Slide 6">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_10.png" alt="Slide 7">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/JMP/figure_11.png" alt="Slide 8">
+  </div>
+  <div class="carousel-buttons">
+    <button class="carousel-button prev">❮</button>
+    <button class="carousel-button next">❯</button>
+  </div>
+</div>
+
+</div>
+</div>
+
+<script>
+document.querySelectorAll('.carousel').forEach((carousel) => {
+  const carouselImages = carousel.querySelector('.carousel-images');
+  const images = carousel.querySelectorAll('.carousel img');
+  const prevButton = carousel.querySelector('.carousel-button.prev');
+  const nextButton = carousel.querySelector('.carousel-button.next');
+
+  let currentIndex = 0;
+
+  function updateCarousel() {
+    const width = images[0].clientWidth;
+    carouselImages.style.transform = `translateX(-${currentIndex * width}px)`;
+  }
+
+  function nextImage() {
+    currentIndex = (currentIndex + 1) % images.length;
+    updateCarousel();
+  }
+
+  function prevImage() {
+    currentIndex = (currentIndex - 1 + images.length) % images.length;
+    updateCarousel();
+  }
+
+  nextButton.addEventListener('click', nextImage);
+  prevButton.addEventListener('click', prevImage);
+
+  // Auto-rotate every 10 seconds
+  setInterval(nextImage, 10000);
+});
+
+</script>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
