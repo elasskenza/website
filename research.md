@@ -422,9 +422,13 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-### *Generative AI & Labor Market Discrimination*
- With Germain Gauthier (Bocconi University), Debora Nozza (Bocconi University) & Paola Profeta (Bocconi University)
-[Link to the AEA Pre-analysis Plan](https://www.socialscienceregistry.org/trials/13538/history/220793)  
+<div class="jmp-container">
+  
+<!-- Left-hand side: Markdown content -->
+<div class="jmp-content">
+
+    <h3><em>Generative AI & Labor Market Discrimination</em></h3>
+ With Germain Gauthier (Bocconi University), Debora Nozza (Bocconi University) & Paola Profeta (Bocconi University) - <a href="https://www.socialscienceregistry.org/trials/13538/history/220793">Link to the AEA Pre-analysis Plan</a>  
  
   <div class="button-container">
 <details>
@@ -440,11 +444,63 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
   </details>
 </div>
 
-**Supported by the [Women and Science](https://dauphine.psl.eu/en/women-and-science) Chair Grant**
+<em>Supported by the  <a href="https://dauphine.psl.eu/en/women-and-science">Women and Science</a> Chair Grant</em>
 
 
+</div>
 
+<!-- Right-hand side: Carousel -->
+<div class="jmp-carousel">
 
+<div class="carousel">
+  <div class="carousel-images">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv_1.png" alt="Slide 1">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv_2.png" alt="Slide 2">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv_3.png" alt="Slide 3">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv_4.png" alt="Slide 4">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv_5.png" alt="Slide 5">
+  </div>
+  <div class="carousel-buttons">
+    <button class="carousel-button prev">❮</button>
+    <button class="carousel-button next">❯</button>
+  </div>
+</div>
+
+</div>
+</div>
+
+<script>
+document.querySelectorAll('.carousel').forEach((carousel) => {
+  const carouselImages = carousel.querySelector('.carousel-images');
+  const images = carousel.querySelectorAll('.carousel img');
+  const prevButton = carousel.querySelector('.carousel-button.prev');
+  const nextButton = carousel.querySelector('.carousel-button.next');
+
+  let currentIndex = 0;
+
+  function updateCarousel() {
+    const width = images[0].clientWidth;
+    carouselImages.style.transform = `translateX(-${currentIndex * width}px)`;
+  }
+
+  function nextImage() {
+    currentIndex = (currentIndex + 1) % images.length;
+    updateCarousel();
+  }
+
+  function prevImage() {
+    currentIndex = (currentIndex - 1 + images.length) % images.length;
+    updateCarousel();
+  }
+
+  nextButton.addEventListener('click', nextImage);
+  prevButton.addEventListener('click', prevImage);
+
+  // Auto-rotate every 10 seconds
+  setInterval(nextImage, 10000);
+});
+
+</script>
 
 
 
