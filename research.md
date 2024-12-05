@@ -441,7 +441,7 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 
 <details>
   <summary>Presentations</summary>
-  Dondena AI and Society Initiative Seminar at Bocconi University, Advanced AI Methods Workshop
+  Dondena AI and Society Initiative Seminar at Bocconi University, Advanced AI Methods Workshop, CREM Seminar at Rennes University
   </details>
 </div>
 
