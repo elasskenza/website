@@ -36,5 +36,8 @@ elements:
 **Scheduled Presentation:** [CEPR MESIE Conference](https://cepr.org/events/third-middle-east-spatial-and-international-economics-conference-mesie)
 {: .notice--success}
 
+**NEWS:** We obtained the [Women and Science](https://dauphine.psl.eu/en/women-and-science) Chair Grant for our project on *"Generative AI and labor market discrimination"*
+{: .notice--success}
+
 <i class="fa fa-envelope"></i> **Contact**: kenza.elass@unibocconi.it  
 {: .notice}
