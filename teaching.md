@@ -20,6 +20,10 @@ elements:
 
 </style>
 
+# Sciences-Po 
+
+* <ins>2025:</ins> **Gender Economics**, Undergraduate-en, 2nd year
+
 # Aix Marseille University
 
 * <ins>2019 - 2022:</ins> **Microeconomics**, Undergraduate-fr, 1st year
