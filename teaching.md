@@ -23,6 +23,7 @@ elements:
 # Sciences-Po 
 
 * <ins>2025:</ins> **Gender Economics**, Undergraduate-en, 2nd year
+  * Sessions 1 & 2 Slides: <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/Gender_Econ_Session_1_Slides.pdf" target="_blank">Download PDF</a>.
 
 # Aix Marseille University
 
