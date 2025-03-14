@@ -33,8 +33,8 @@ elements:
 
 * I am also on [X](https://twitter.com/ElassKenza) and [BlueSky](https://bsky.app/profile/kenza-elass.bsky.social).
 
-**Check the fantastic program of our last workshop** The [Axa Gender Lab of Bocconi](https://genderlab.unibocconi.eu/), the [London School of Economics WISPPRH](https://www.lse.ac.uk/social-policy/research/Research-clusters/WISPPRH) and [NYU Abu Dhabi](https://nyuad.nyu.edu/en/) organized a joint workshop on *“Gender Inequality: Navigating New frontiers And Paradigm Shifts”*. ** Thanks to everyone who participated online and in person at the London School of Economics**. Topics: Fertility, AI, Carbon Footprint, etc. See the program [here](https://www.lse.ac.uk/social-policy/research/Research-clusters/WISPPRH/events/2025/March-Workshop/Gender-Inequality-Navigating-New-Frontiers-and-Paradigm-Shifts).
-<img src="https://github.com/elasskenza/website/blob/main/assets/workshop.png?raw=true" width="130" height="100">
+**Check the fantastic program of our last workshop:** The [Axa Gender Lab of Bocconi](https://genderlab.unibocconi.eu/), the [London School of Economics WISPPRH](https://www.lse.ac.uk/social-policy/research/Research-clusters/WISPPRH) and [NYU Abu Dhabi](https://nyuad.nyu.edu/en/) organized a joint workshop on *“Gender Inequality: Navigating New frontiers And Paradigm Shifts”*. **Thanks to everyone who participated online and in person at the London School of Economics**. Topics: Fertility, AI, Carbon Footprint, etc. See the program [here](https://www.lse.ac.uk/social-policy/research/Research-clusters/WISPPRH/events/2025/March-Workshop/Gender-Inequality-Navigating-New-Frontiers-and-Paradigm-Shifts).
+<img src="https://github.com/elasskenza/website/blob/main/assets/workshop.jpg?raw=true" width="130" height="100">
 {: .notice--success}
 
 **News:** We obtained the [Women and Science](https://dauphine.psl.eu/en/women-and-science) Chair Grant for our project on *"Generative AI and labor market discrimination"*
