@@ -346,10 +346,10 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
  <a href="https://cepr.org/publications/dp19592">Link to the CEPR Working Paper</a> - 
       <a href="https://www.cesifo.org/en/publications/2024/working-paper/gender-gaps-urban-wage-premium">Link to the CESifo Working Paper</a> - 
 	  <a href="https://drive.google.com/file/d/1XK1jeGmbXEah44l8Fp0DoNe3CYC6LRDc/view">Appendix</a>
+   <br>
     <h5> Under Review
     </h5>
-   
-<br>
+
 <br>
 <div class="button-container">
 <details>
@@ -430,9 +430,9 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 
     <h3><em>Generative AI & Labor Market Discrimination</em></h3>
  With Germain Gauthier (Bocconi University), Debora Nozza (Bocconi University) & Paola Profeta (Bocconi University) - <a href="https://www.socialscienceregistry.org/trials/13538/history/220793">Link to the AEA Pre-analysis Plan</a>  
+ <br>
      <h5>Draft available upon request
     </h5>
-<br>
 <br>
   <div class="button-container">
 <details>
