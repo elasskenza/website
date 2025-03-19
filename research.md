@@ -510,7 +510,6 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 
 <br>
 <br>
-<br>
 
 # Selected work in progress 
 
@@ -522,12 +521,11 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 
 <br>
 <br>
-<br>
 
 
 <section>
   <h2>Other Writing - General Audience</h2>
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   <h3><i>Threat or opportunity? The impact of AI on women</i></h3>
   <p>With Paola Profeta (Bocconi University)</p>
