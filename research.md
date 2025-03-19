@@ -361,11 +361,9 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 
 <details>
   <summary>Presentations</summary>
-  King’s Junior Research Day 2023, ADRES 2023, GRAPE 2023 Gender Gaps Conference, Bocconi Food for Thought seminar, PhD seminar at the Aix Marseille School of Economics, Paris School of Economics Labour Chair seminar; COSME workshop, 3rd Workshop on Public Policies, Urban Economics Association Conference 2024, IAAE Conference 2024
+  King’s Junior Research Day 2023, ADRES 2023, GRAPE 2023 Gender Gaps Conference, Bocconi Food for Thought seminar, PhD seminar at the Aix Marseille School of Economics, Paris School of Economics Labour Chair seminar; COSME workshop, 3rd Workshop on Public Policies, Urban Economics Association Conference 2024, IAAE Conference 2024, <a href="https://cepr.org/events/third-middle-east-spatial-and-international-economics-conference-mesie" target="_blank">CEPR MESIE Conference</a>
   </details>
 </div>
-
-<p><strong>Scheduled Presentation:</strong> <a href="https://cepr.org/events/third-middle-east-spatial-and-international-economics-conference-mesie" target="_blank">CEPR MESIE Conference</a></p>
 
 <h6>Communication: <p><a href="https://nadaesgratis.es/admin/la-geografia-de-las-desigualdades-salariales-entre-mujeres-y-hombres" target="_blank">Nada es Gratis</a></p> </h6>
 
@@ -446,7 +444,7 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 
 <details>
   <summary>Presentations</summary>
-  Dondena AI and Society Initiative Seminar at Bocconi University, Advanced AI Methods Workshop, CREM Seminar at Rennes University
+  Dondena AI and Society Initiative Seminar at Bocconi University, Advanced AI Methods Workshop, CREM Seminar at Rennes University, Applied Economics Lunch Seminar of the Paris School of Economics, Gender inequality workshop at the London School of Economics
   </details>
 </div>
 
