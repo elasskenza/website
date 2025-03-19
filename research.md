@@ -433,7 +433,8 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
     <h3><em>Generative AI & Labor Market Discrimination</em></h3>
  With Germain Gauthier (Bocconi University), Debora Nozza (Bocconi University) & Paola Profeta (Bocconi University) - <a href="https://www.socialscienceregistry.org/trials/13538/history/220793">Link to the AEA Pre-analysis Plan</a>    
  <br>  
- 
+    <br>
+    
      <h5>Draft available upon request
     </h5>
 <br>
