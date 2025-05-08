@@ -448,7 +448,7 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 
 <details>
   <summary>Presentations</summary>
-  Dondena AI and Society Initiative Seminar at Bocconi University, Advanced AI Methods Workshop, CREM Seminar at Rennes University, Applied Economics Lunch Seminar of the Paris School of Economics, Gender inequality workshop at the London School of Economics
+  Dondena AI and Society Initiative Seminar at Bocconi University, Advanced AI Methods Workshop, CREM Seminar at Rennes University, Applied Economics Lunch Seminar of the Paris School of Economics, Gender inequality workshop at the London School of Economics, Discrimination and the Inequalities in the Age of AI Workshop at Sciences Po
   </details>
 </div>
 
