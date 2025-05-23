@@ -20,8 +20,6 @@ elements:
 
 ![image-right]({{ '/assets/image0.jpeg' | absolute_url }}){: .align-right style="width: 40%;"}
 
-* I will be on the **academic Job Market in 2024-2025**.
-
 * My research interests are in **applied labour**, **gender**, **digital** and **urban economics**.
 * A key aspect of my research is the use of **text analysis methods** to collect new data.
 
@@ -38,6 +36,9 @@ elements:
 {: .notice--success}
 
 **News:** We obtained the [Women and Science](https://dauphine.psl.eu/en/women-and-science) Chair Grant for our project on *"Generative AI and labor market discrimination"*
+{: .notice--success}
+
+**Upcoming presentations:** 2025 Workshop in Gender Economics at ENS de Lyon, 5th Discrimination and Diversity Workshop, URPP Conference on Gender Issues, LAGV 2025, TASKS VII Conference: The Economic Impacts of AI on Work and Labor Markets
 {: .notice--success}
 
 <i class="fa fa-envelope"></i> **Contact**: kenza.elass@unibocconi.it  
