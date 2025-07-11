@@ -34,7 +34,7 @@ elements:
 **News:** My JMP "What do women want in a job?" was awarded the   <a href="https://www.siepweb.it/siep/wp/en/en/premio-etta-chiuri/" style="font-weight: bold; color: #237ecf;">
     Etta Chiuri Prize 2025
   </a>  by the Italian Society of Public Economics.
-{: .notice--success}
+{: .notice--accent}
 
 ![image-left]({{ '/assets/workshop.jpg' | absolute_url }}){: .align-left style="width: 40%;"}
 **Check the fantastic program of our last workshop:** The [Axa Gender Lab of Bocconi](https://genderlab.unibocconi.eu/), the [London School of Economics WISPPRH](https://www.lse.ac.uk/social-policy/research/Research-clusters/WISPPRH) and [NYU Abu Dhabi](https://nyuad.nyu.edu/en/) organized a joint workshop on *“Gender Inequality: Navigating New frontiers And Paradigm Shifts”*. **Thanks to everyone who participated online and in person at the London School of Economics**. Topics: Fertility, AI, Carbon Footprint, etc. See the program [here](https://www.lse.ac.uk/social-policy/research/Research-clusters/WISPPRH/events/2025/March-Workshop/Gender-Inequality-Navigating-New-Frontiers-and-Paradigm-Shifts).
