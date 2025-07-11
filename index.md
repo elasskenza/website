@@ -31,7 +31,9 @@ elements:
 
 * I am also on [X](https://twitter.com/ElassKenza) and [BlueSky](https://bsky.app/profile/kenza-elass.bsky.social).
 
-**News:** My JMP "What do women want in a job?" was awarded the \href{https://www.siepweb.it/siep/wp/en/en/premio-etta-chiuri/}{\textbf{Etta Chiuri Prize 2025}} by the Italian Society of Public Economics.
+**News:** My JMP "What do women want in a job?" was awarded the   <a href="https://www.siepweb.it/siep/wp/en/en/premio-etta-chiuri/" style="font-weight: bold; color: blue;">
+    Etta Chiuri Prize 2025
+  </a>  by the Italian Society of Public Economics.
 {: .notice--success}
 
 ![image-left]({{ '/assets/workshop.jpg' | absolute_url }}){: .align-left style="width: 40%;"}
