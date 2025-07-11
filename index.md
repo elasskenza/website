@@ -31,14 +31,15 @@ elements:
 
 * I am also on [X](https://twitter.com/ElassKenza) and [BlueSky](https://bsky.app/profile/kenza-elass.bsky.social).
 
+**News:** My JMP "What do women want in a job?" was awarded the \href{https://www.siepweb.it/siep/wp/en/en/premio-etta-chiuri/}{\textbf{Etta Chiuri Prize 2025}} by the Italian Society of Public Economics.
+{: .notice--success}
+
 ![image-left]({{ '/assets/workshop.jpg' | absolute_url }}){: .align-left style="width: 40%;"}
 **Check the fantastic program of our last workshop:** The [Axa Gender Lab of Bocconi](https://genderlab.unibocconi.eu/), the [London School of Economics WISPPRH](https://www.lse.ac.uk/social-policy/research/Research-clusters/WISPPRH) and [NYU Abu Dhabi](https://nyuad.nyu.edu/en/) organized a joint workshop on *“Gender Inequality: Navigating New frontiers And Paradigm Shifts”*. **Thanks to everyone who participated online and in person at the London School of Economics**. Topics: Fertility, AI, Carbon Footprint, etc. See the program [here](https://www.lse.ac.uk/social-policy/research/Research-clusters/WISPPRH/events/2025/March-Workshop/Gender-Inequality-Navigating-New-Frontiers-and-Paradigm-Shifts).
 {: .notice--success}
 
-**News:** We obtained the [Women and Science](https://dauphine.psl.eu/en/women-and-science) Chair Grant for our project on *"Generative AI and labor market discrimination"*
-{: .notice--success}
 
-**Upcoming presentations:** 2025 Workshop in Gender Economics at ENS de Lyon, 5th Discrimination and Diversity Workshop, URPP Conference on Gender Issues, LAGV 2025, TASKS VII Conference: The Economic Impacts of AI on Work and Labor Markets
+**Upcoming presentations:** 4th Workshop on Field Experiments in Economics and Business, TASKS VII Conference: The Economic Impacts of AI on Work and Labor Markets, Workshop on Gender Gaps and Social Norms
 {: .notice--success}
 
 <i class="fa fa-envelope"></i> **Contact**: kenza.elass@unibocconi.it  
