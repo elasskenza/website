@@ -158,9 +158,9 @@ section {
 
     <h3><em>What do women want in a job? Household constraints, gender-biased decisions and the reservation wage gap</em></h3>
     <h4>
-<p style="color: blue;">
+<p style="color: #237ecf;">
   This paper was awarded the 
-  <a href="https://www.siepweb.it/siep/wp/en/en/premio-etta-chiuri/" style="font-weight: bold; color: blue;">
+  <a href="https://www.siepweb.it/siep/wp/en/en/premio-etta-chiuri/" style="font-weight: bold; color: #237ecf;">
     Etta Chiuri Prize 2025
   </a> 
   by the Italian Society of Public Economics.
