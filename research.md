@@ -155,7 +155,9 @@ section {
 <!-- Left-hand side: Markdown content -->
 <div class="jmp-content">
 
-<h4>
+
+    <h3><em>What do women want in a job? Household constraints, gender-biased decisions and the reservation wage gap</em></h3>
+    <h4>
 <p style="color: blue;">
   This paper was awarded the 
   <a href="https://www.siepweb.it/siep/wp/en/en/premio-etta-chiuri/" style="font-weight: bold; color: blue;">
@@ -164,8 +166,6 @@ section {
   by the Italian Society of Public Economics.
 </p>
 </h4>
-
-    <h3><em>What do women want in a job? Household constraints, gender-biased decisions and the reservation wage gap</em></h3>
     <h5>Draft available here: 
       <a href="https://www.dropbox.com/scl/fi/vcikrhj1dvwrig3jwfnvj/JMP_Kenza_Elass.pdf?rlkey=kncf3g3ofj1zgbz53vc098nuh&st=e6poxbut&dl=0">Dropbox link</a>
     </h5>
