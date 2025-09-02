@@ -41,7 +41,7 @@ elements:
 {: .notice--success}
 
 
-**Upcoming presentations:** 4th Workshop on Field Experiments in Economics and Business, TASKS VII Conference: The Economic Impacts of AI on Work and Labor Markets, Workshop on Gender Gaps and Social Norms
+**Upcoming presentations:** 10th MPWZ-CEPR Text-as-Data Workshop, 4th Workshop on Field Experiments in Economics and Business, TASKS VII Conference: The Economic Impacts of AI on Work and Labor Markets, Workshop on Gender Gaps and Social Norms, SIEP Conference
 {: .notice--success}
 
 <i class="fa fa-envelope"></i> **Contact**: kenza.elass@unibocconi.it  
