@@ -23,7 +23,7 @@ elements:
 * My research interests are in **applied labour**, **gender**, **digital** and **urban economics**.
 * A key aspect of my research is the use of **text analysis methods** to collect new data.
 
-* My ongoing projects focus on spatial disparities in gender wage gaps, gender differences in the **job search** and stereotypes linked to skills and **artificial intelligence**. 
+* My ongoing projects focus on spatial disparities in gender wage gaps, gender differences in the **job search** and stereotypes linked to skills and **generative artificial intelligence**. 
    
 *  Before, I was a **PhD candidate** in economics at the [Aix Marseille School of Economics](https://www.amse-aixmarseille.fr/en/members/elass) (AMSE) and at the [Labour Chair](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/) at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/doctorants/)
 
@@ -41,7 +41,7 @@ elements:
 {: .notice--success}
 
 
-**Upcoming presentations:** 10th MPWZ-CEPR Text-as-Data Workshop, 4th Workshop on Field Experiments in Economics and Business, TASKS VII Conference: The Economic Impacts of AI on Work and Labor Markets, Workshop on Gender Gaps and Social Norms, SIEP Conference
+**Upcoming presentations:** 10th MPWZ-CEPR Text-as-Data Workshop, 4th Workshop on Field Experiments in Economics and Business, TASKS VII Conference: The Economic Impacts of AI on Work and Labor Markets, Workshop on Gender Gaps and Social Norms, SIEP Conference, Banca d'Italia Gender Economics Workshop
 {: .notice--success}
 
 <i class="fa fa-envelope"></i> **Contact**: kenza.elass@unibocconi.it  
