@@ -21,17 +21,18 @@ elements:
 ![image-right]({{ '/assets/image0.jpeg' | absolute_url }}){: .align-right style="width: 40%;"}
 
 * My research interests are in **applied labour**, **gender**, **digital** and **urban economics**.
-* A key aspect of my research is the use of **text analysis methods** to collect new data.
+  
+* A key aspect of my research is the use of **text analysis methods (NLP)** to collect new data, like CVs, job descriptions, and job vacancies.
 
-* My ongoing projects focus on spatial disparities in gender wage gaps, gender differences in the **job search** and stereotypes linked to skills and **generative artificial intelligence**. 
+* My ongoing projects focus on spatial disparities in gender wage gaps, gender differences in the **job search** and **generative artificial intelligence** algorithmic bias. 
    
-*  Before, I was a **PhD candidate** in economics at the [Aix Marseille School of Economics](https://www.amse-aixmarseille.fr/en/members/elass) (AMSE) and at the [Labour Chair](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/) at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/doctorants/)
+*  Before, I was a **PhD candidate** in economics at the [Aix Marseille School of Economics](https://www.amse-aixmarseille.fr/en/members/elass) (AMSE) and at the **[Labour Chair](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/)** at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/doctorants/)
 
 * In 2019, I started my PhD on the <i>supply side effects on gender wage inequality</i>, supervised by [Cecilia Garcia-Peñalosa](https://sites.google.com/view/ceciliagarciapenalosa) and [Christian Schluter](https://christianschluter.github.io/). I defended my thesis in October 2023.
 
 * I am also on [X](https://twitter.com/ElassKenza) and [BlueSky](https://bsky.app/profile/kenza-elass.bsky.social).
 
-**News:** My JMP "What do women want in a job?" was awarded the   <a href="https://www.siepweb.it/siep/wp/en/en/premio-etta-chiuri/" style="font-weight: bold; color: #237ecf;">
+**News:** ![image-right]({{ '/assets/assets/Immagine WhatsApp 2025-09-23 ore 19.54.48_6f96974c.jpg' | absolute_url }}){: .align-right style="width: 30%;"} My JMP "What do women want in a job?" was awarded the   <a href="https://www.siepweb.it/siep/wp/en/en/premio-etta-chiuri/" style="font-weight: bold; color: #237ecf;">
     Etta Chiuri Prize 2025
   </a>  by the Italian Society of Public Economics.
 {: .notice--accent}
