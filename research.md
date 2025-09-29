@@ -156,7 +156,7 @@ section {
 <div class="jmp-content">
 
 
-    <h3><em>What do women want in a job? Household constraints, gender-biased decisions and the reservation wage gap</em></h3>
+    <h3><em>What do women want in a job? Household constraints, gender-biased decisions and the reservation wage </em></h3>
     <h4>
 <p style="color: #237ecf;">
   This paper was awarded the 
@@ -174,14 +174,14 @@ section {
 <details>
   <summary>Abstract</summary>
     <p class="text-justify">
- Recent explanations of the gender wage gap emphasize the role of gender differences in job search, yet the role of childcare constraints remains underexplored. This paper uses French administrative data to investigate how childcare constraints shape women’s reservation wage and job search strategies. First, I assess the types of occupations that men and women apply for and the implications for the reservation wage gap. Using text analysis, I create a novel dataset classifying occupations based on amenities and job content. Quantile decomposition methods allow me to document an unequal gap in reservation wage, intensifying along the distribution, partially explained by gender biased choices in the temporal flexibility associated with the desired job.  Given that gender differences in targeted amenities may be shaped by childcare constraints, could a reduction in childcare costs change women's job search strategies? To address this question, I assess to which extent a 2018 reform, which increased childcare benefits for single-parent households by 30%, influenced the reservation wage and job-search strategies of women. Using a difference-in-difference strategy and spatial variation in childcare service availability, results indicate that the reduction in childcare costs led women to lower their reservation wages. However, I also find that more affordable access to flexible childcare increases the likelihood of targeting occupations requiring greater temporal flexibility and the desired maximum commute, thereby enabling them to secure more stable jobs and improve their reemployment outcomes. Lastly, I show that policies of childcare cost reduction are only truly effective when combined with childcare services availability.
+ Recent explanations of the gender wage gap emphasize the role of gender differences in job search, yet the role of childcare constraints remains underexplored. This paper uses French administrative data to investigate how childcare constraints shape women’s reservation wage and job search strategies. First, I assess the types of occupations that men and women apply for and the implications for the reservation wage gap. Using text analysis, I create a novel dataset classifying occupations based on amenities and job content. Quantile decomposition methods allow me to document an unequal gap in reservation wage, intensifying along the distribution, partially explained by gender biased choices in the temporal flexibility associated with the desired job.  Given that gender differences in targeted amenities may be shaped by childcare constraints, could a reduction in childcare costs change women's job search strategies? To address this question, I assess to which extent a 2018 reform, which increased childcare benefits for single-parent households by 30%, influenced the reservation wage and job-search strategies of women. Using a difference-in-differences strategy and spatial variation in childcare service availability, results indicate that the reduction in childcare costs led women to lower their reservation wages. However, I also find that more affordable access to flexible childcare increases the likelihood of targeting occupations requiring greater temporal flexibility and the desired maximum commute, thereby enabling them to secure more stable jobs and improve their reemployment outcomes. Lastly, I show that policies of childcare cost reduction are only truly effective when combined with childcare services availability.
   </p>
 </details>
 
 <details>
   <summary>Presentations</summary>
   <ul>
-    <li>  ECONtribute and C-SEB Design & Behavior Seminar at Cologne University, Areena JMC Symposium, EEA-ESEM 2024, EALE 2024, Junior Economist Meeting 2024, 2024 Junior Research Day at College de France, Afépop 2024, ADRES 2023, AFSE 2023, European Association of Labour Economists (EALE) Conference 2022, International Association for Applied Econometrics (IAAE) Conference 2022, LAGV 2022, JMA 2022, Food for Thought seminar at Bocconi University, Labour Chair Seminar at the Paris School of Economics, Firms and market seminar at CREST, Core Brown Bag Seminar at Louvain University, ADRES 2023 and PhD seminar at the Aix Marseille School of Economics </li>
+    <li>  Bank of Italy Gender Economics Workshop*,  SIEP 2025 Conference, ECONtribute and C-SEB Design & Behavior Seminar at Cologne University, Areena JMC Symposium, EEA-ESEM 2024, EALE 2024, Junior Economist Meeting 2024, 2024 Junior Research Day at College de France, Afépop 2024, ADRES 2023, AFSE 2023, European Association of Labour Economists (EALE) Conference 2022, International Association for Applied Econometrics (IAAE) Conference 2022, LAGV 2022, JMA 2022, Food for Thought seminar at Bocconi University, Labour Chair Seminar at the Paris School of Economics, Firms and market seminar at CREST, Core Brown Bag Seminar at Louvain University, ADRES 2023 and PhD seminar at the Aix Marseille School of Economics </li>
   </ul>
 </details>
 </div>
@@ -256,7 +256,7 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 
 
 	
-# Publications
+# Publication
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -458,7 +458,7 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 
 <details>
   <summary>Presentations</summary>
-  Dondena AI and Society Initiative Seminar at Bocconi University, Advanced AI Methods Workshop, CREM Seminar at Rennes University, Applied Economics Lunch Seminar of the Paris School of Economics, Gender inequality workshop at the London School of Economics, Discrimination and the Inequalities in the Age of AI Workshop at Sciences Po
+   TASKS VII Conference: The Economic Impacts of AI on Work and Labor Markets, 4th Workshop on Field Experiments in Economics and Business, 10th CEPR Text-As-Data Workshop,  2025 Workshop in Gender Economics at ENS de Lyon, 5th Discrimination and Diversity Workshop, LAGV 2025, Dondena AI and Society Initiative Seminar at Bocconi University, Advanced AI Methods Workshop, CREM Seminar at Rennes University, Applied Economics Lunch Seminar of the Paris School of Economics, Gender Inequality Workshop at the London School of Economics, Discrimination and the Inequalities in the Age of AI Workshop at Sciences Po
   </details>
 </div>
 
@@ -472,11 +472,11 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 
 <div class="carousel">
   <div class="carousel-images">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/1.png" alt="Slide 1">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/2.png" alt="Slide 2">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/3.png" alt="Slide 3">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/4.png" alt="Slide 4">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/5.png" alt="Slide 5">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/1.pdf" alt="Slide 1">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/2.pdf" alt="Slide 2">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/3.pdf" alt="Slide 3">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/4.pdf" alt="Slide 4">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/5.pdf" alt="Slide 5">
   </div>
   <div class="carousel-buttons">
     <button class="carousel-button prev">❮</button>
