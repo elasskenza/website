@@ -26,7 +26,7 @@ elements:
 
 * My ongoing projects focus on spatial disparities in gender wage gaps, gender differences in the **job search** and **generative artificial intelligence** algorithmic bias.
   
-* Since 2023, I have received funding from the **[Future Artificial Intelligence Research (FAIR)](https://fondazione-fair.it/en/)** foundation to develop my research agenda on Gender **Bias in Generative Artificial Intelligence**, in collaboration with [Paola Profeta](https://sites.google.com/view/paola-profeta) and [Debora Nozza](https://www.deboranozza.com/). This research agenda is further supported by the <a href="https://dauphine.psl.eu/en/women-and-science">Women and Science</a> Chair (Dauphine-PSL) Grant.
+* Since 2023, I have received funding from the **[Future Artificial Intelligence Research (FAIR)](https://fondazione-fair.it/en/)** foundation to develop my research agenda on **Gender Bias in Generative Artificial Intelligence**, in collaboration with [Paola Profeta](https://sites.google.com/view/paola-profeta) and [Debora Nozza](https://www.deboranozza.com/). This research agenda is further supported by the <a href="https://dauphine.psl.eu/en/women-and-science">Women and Science</a> Chair (Dauphine-PSL) Grant.
    
 *  Before, I was a **PhD candidate** in economics at the [Aix Marseille School of Economics](https://www.amse-aixmarseille.fr/en/members/elass) (AMSE) and at the **[Labour Chair](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/)** at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/doctorants/)
 
