@@ -472,11 +472,11 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 
 <div class="carousel">
   <div class="carousel-images">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/1.png" alt="Slide 1">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/2.png" alt="Slide 2">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/3.png" alt="Slide 3">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/4.png" alt="Slide 4">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/5.png" alt="Slide 5">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/1.jpg" alt="Slide 1">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/2.jpg" alt="Slide 2">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/3.jpg" alt="Slide 3">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/4.jpg" alt="Slide 4">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/5.jpg" alt="Slide 5">
   </div>
   <div class="carousel-buttons">
     <button class="carousel-button prev">❮</button>
