@@ -445,7 +445,7 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
  <br>  
     <br>
     
-     <h5>Draft available upon request
+     <h5>Working paper available upon request
     </h5>
 <br>
   <div class="button-container">
