@@ -23,17 +23,17 @@ elements:
 # Sciences-Po 
 
 * <ins>2025:</ins> **Gender Economics**, Undergraduate-en, 2nd year
-  * Readings:    <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/List.pdf" target="_blank">Download List</a>.
-  * Sessions 1 & 2: <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/Gender_Econ_Session_1_Slides.pdf" target="_blank">Download Slides</a>.
-  * Session 3: <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/Gender_Econ_Session_3.pdf" target="_blank">Download Slides</a>.
-  * Session 4: <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/Gender_Econ_Session_4.pdf" target="_blank">Download Slides</a>.
-  * Session 5: <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/Gender_Econ_Session_5.pdf" target="_blank">Download Slides</a>.
-  * Session 6: <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/Gender_Econ_Session_6.pdf" target="_blank">Download Slides</a>.
-  * Session 7: <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/Gender_Econ_Session_7.pdf" target="_blank">Download Slides</a>.
-  * Session 8: <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/Gender_Econ_Session_8.pdf" target="_blank">Download Slides</a>.
-  * Session 9: <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/Gender_Econ_Session_9.pdf" target="_blank">Download Slides</a>.
-  * Session 10: <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/Gender_Econ_Session_10.pdf" target="_blank">Download Slides</a>.
-  * Session 11: <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/Gender_Econ_Session_11.pdf" target="_blank">Download Slides</a>.
+[//]: <>  * Readings:    <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/List.pdf" target="_blank">Download List</a>.
+[//]: <>  * Sessions 1 & 2: <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/Gender_Econ_Session_1_Slides.pdf" target="_blank">Download Slides</a>.
+[//]: <>  * Session 3: <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/Gender_Econ_Session_3.pdf" target="_blank">Download Slides</a>.
+[//]: <>  * Session 4: <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/Gender_Econ_Session_4.pdf" target="_blank">Download Slides</a>.
+[//]: <>  * Session 5: <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/Gender_Econ_Session_5.pdf" target="_blank">Download Slides</a>.
+[//]: <>  * Session 6: <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/Gender_Econ_Session_6.pdf" target="_blank">Download Slides</a>.
+[//]: <>  * Session 7: <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/Gender_Econ_Session_7.pdf" target="_blank">Download Slides</a>.
+ [//]: <> * Session 8: <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/Gender_Econ_Session_8.pdf" target="_blank">Download Slides</a>.
+[//]: <>  * Session 9: <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/Gender_Econ_Session_9.pdf" target="_blank">Download Slides</a>.
+[//]: <>  * Session 10: <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/Gender_Econ_Session_10.pdf" target="_blank">Download Slides</a>.
+ [//]: <> * Session 11: <a href="https://nbviewer.org/github/elasskenza/website/blob/main/_data/Gender_Econ_Session_11.pdf" target="_blank">Download Slides</a>.
 
 # Aix Marseille University
 
