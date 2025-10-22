@@ -15,7 +15,7 @@ elements:
   
 ---
 
- I am a **Post-doctoral researcher** in economics at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home) and the [Axa Gender Lab](https://genderlab.unibocconi.eu/)  
+ I am a **Post-doctoral researcher** in economics at [ENS de Lyon]([https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home](https://www.cergic-lyon.fr/)), in the Department of Economics and the Center for Economic Research on Governance, Inequality and Conflict (CERGIC) and an affiliate of [Bocconi's Gender Lab](https://genderlab.unibocconi.eu/). 
 {: .notice--accent}
 
 ![image-right]({{ '/assets/image0.jpeg' | absolute_url }}){: .align-right style="width: 40%;"}
@@ -26,7 +26,7 @@ elements:
 
 * My ongoing projects focus on spatial disparities in gender wage gaps, gender differences in the **job search** and **generative artificial intelligence** algorithmic bias.
   
-* Since 2023, I have received funding from the **[Future Artificial Intelligence Research (FAIR)](https://fondazione-fair.it/en/)** foundation to develop my research agenda on **Gender Bias in Generative Artificial Intelligence**, in collaboration with [Paola Profeta](https://sites.google.com/view/paola-profeta) and [Debora Nozza](https://www.deboranozza.com/). This research agenda is further supported by the <a href="https://dauphine.psl.eu/en/women-and-science">Women and Science</a> Chair (Dauphine-PSL) Grant.
+* In 2023, I have received funding from the **[Future Artificial Intelligence Research (FAIR)](https://fondazione-fair.it/en/)** foundation to develop my research agenda at Bocconi University on **Gender Bias in Generative Artificial Intelligence**, in collaboration with [Paola Profeta](https://sites.google.com/view/paola-profeta). This research agenda is further supported by the <a href="https://dauphine.psl.eu/en/women-and-science">Women and Science</a> Chair (Dauphine-PSL) Grant.
    
 *  Before, I was a **PhD candidate** in economics at the [Aix Marseille School of Economics](https://www.amse-aixmarseille.fr/en/members/elass) (AMSE) and at the **[Labour Chair](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/)** at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/fr/programme-partenarial/chaires/chaire-travail/doctorants/)
 
