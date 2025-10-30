@@ -47,5 +47,5 @@ elements:
 **Upcoming presentations:** 10th MPWZ-CEPR Text-as-Data Workshop, 4th Workshop on Field Experiments in Economics and Business, TASKS VII Conference: The Economic Impacts of AI on Work and Labor Markets, Workshop on Gender Gaps and Social Norms, SIEP Conference, Banca d'Italia Gender Economics Workshop
 {: .notice--success}
 
-<i class="fa fa-envelope"></i> **Contact**: kenza.elass@unibocconi.it  
+<i class="fa fa-envelope"></i> **Contact**: kenza.elass@ens-lyon.fr 
 {: .notice}
