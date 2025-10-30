@@ -15,7 +15,7 @@ elements:
   
 ---
 
- I am a **Post-doctoral researcher** in economics at [ENS de Lyon]([https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home](https://www.cergic-lyon.fr/)), in the Department of Economics and the Center for Economic Research on Governance, Inequality and Conflict (CERGIC) and an affiliate of [Bocconi's Gender Lab](https://genderlab.unibocconi.eu/). 
+ I am a **Post-doctoral researcher** in economics at [ENS de Lyon]([https://www.cergic-lyon.fr/](https://www.cergic-lyon.fr/)), in the Department of Economics and the Center for Economic Research on Governance, Inequality and Conflict (CERGIC) and an affiliate of [Bocconi's Gender Lab](https://genderlab.unibocconi.eu/). 
 {: .notice--accent}
 
 ![image-right]({{ '/assets/image0.jpeg' | absolute_url }}){: .align-right style="width: 40%;"}
