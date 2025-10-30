@@ -19,7 +19,7 @@ skin: "/assets/css/skins/light.css"
 locale: en-US
 
 title: Kenza Elass
-email: kenza.elass@unibocconi.it
+email: kenza.elass@ens-lyon.fr
 description: "Post-doctoral researcher in Applied Labour, Digital and Urban Economics at ENS de Lyon."
 twitter_username: ElassKenza
 
@@ -115,7 +115,7 @@ defaults:
 author:
   name   : "Kenza Elass"
   avatar : ""
-  bio    : "Post-doctoral researcher in Applied Labour, Digital and Gender Economics at Bocconi University."
+  bio    : "Post-doctoral researcher in Applied Labour, Digital and Urban Economics at ENS de Lyon."
   location : "France"
   links:
    - label: "Twitter"
@@ -123,7 +123,7 @@ author:
      url: "https://twitter.com/ElassKenza"
    - label: "Email"
      icon: "fas fa-fw fa-envelope-square"
-     url: "mailto:kenza.elass@unibocconi.it"
+     url: "mailto:kenza.elass@ens-lyon.fr"
    - label: "Website"
      icon: "fas fa-fw fa-link"
      url: "https://elasskenza.github.io/Site/"  
@@ -138,7 +138,7 @@ footer:
      url: "https://twitter.com/ElassKenza"
    - label: "Email"
      icon: "fas fa-fw fa-envelope-square"
-     url: "mailto:kenza.elass@unibocconi.it"
+     url: "mailto:kenza.elass@ens-lyon.fr"
    - label: "Website"
      icon: "fas fa-fw fa-link"
      url: "https://elasskenza.github.io/website/"  
