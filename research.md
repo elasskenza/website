@@ -144,7 +144,92 @@ section {
 </style>
 
 
-# Job Market Paper
+	
+# Publication
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<div class="jmp-container">
+  
+<!-- Left-hand side: Markdown content -->
+<div class="jmp-content">
+
+    <h3><em><a href="https://www.sciencedirect.com/science/article/pii/S0927537124000022">Male and female selection effects on gender wage gaps in three countries</a></em></h3>
+
+    <h5>Published at Labour Economics - <a href="https://doi.org/10.1016/j.labeco.2024.102506">https://doi.org/10.1016/j.labeco.2024.102506</a></h5>
+
+<div class="button-container">
+<details>
+  <summary>Abstract</summary>
+    <p class="text-justify">
+    A vast literature on gender wage gaps has examined the importance of selection into employment. However, most analyses have focused only on female labour force participation and gaps at the median. The Great Recession questions this approach because of the major shift in male employment that it implied. This paper uses the methodology proposed by Arellano and Bonhomme (2017) to estimate a quantile selection model over the period 2007–2018. Using a tax and benefit microsimulation model, I compute an instrument capturing both male and female decisions to participate in the labour market: the potential out-of-work income. Since my instrument is crucially determined by the welfare state, I consider three countries with notably different benefit systems – the UK, France, and Finland. My results imply different selection patterns across countries and a sizeable male selection in France and the UK. Correction for selection bias lowers the gender wage gap and reveals a substantial glass ceiling with different magnitudes. Findings suggest that disparities between these countries are driven by occupational segregation and public spending on families.
+  </p>
+</details>
+
+ 
+<details>
+  <summary>Presentations</summary>
+Presentations: EALE 2023, LAGV 2023, Ninth ECINEQ Meeting of The Society for the Study of Economic Inequality, ECINEQ PhD Workshop participants at the London School of Economics, 14th Workshop on Labour Economics (IAAEU), the 4th QMUL Economics Workshop for PhD and Post-doctoral Students, the 2022 French Stata conference, PhD seminar at the Aix-Marseille School of Economics, Labour Chair seminar at the Paris School of Economics
+</details>
+</div>
+
+
+</div>
+
+<!-- Right-hand side: Carousel -->
+<div class="jmp-carousel">
+
+<div class="carousel">
+  <div class="carousel-images">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/selection/1.png" alt="Slide sel1">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/selection/2.png" alt="Slide sel2">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/selection/3.png" alt="Slide sel3">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/selection/4.png" alt="Slide sel4">
+  </div>
+  <div class="carousel-buttons">
+    <button class="carousel-button prev">❮</button>
+    <button class="carousel-button next">❯</button>
+  </div>
+</div>
+
+</div>
+</div>
+
+<script>
+document.querySelectorAll('.carousel').forEach((carousel) => {
+  const carouselImages = carousel.querySelector('.carousel-images');
+  const images = carousel.querySelectorAll('.carousel img');
+  const prevButton = carousel.querySelector('.carousel-button.prev');
+  const nextButton = carousel.querySelector('.carousel-button.next');
+
+  let currentIndex = 0;
+
+  function updateCarousel() {
+    const width = images[0].clientWidth;
+    carouselImages.style.transform = `translateX(-${currentIndex * width}px)`;
+  }
+
+  function nextImage() {
+    currentIndex = (currentIndex + 1) % images.length;
+    updateCarousel();
+  }
+
+  function prevImage() {
+    currentIndex = (currentIndex - 1 + images.length) % images.length;
+    updateCarousel();
+  }
+
+  nextButton.addEventListener('click', nextImage);
+  prevButton.addEventListener('click', prevImage);
+
+  // Auto-rotate every 10 seconds
+  setInterval(nextImage, 10000);
+});
+
+</script>
+
+
+# Working Papers
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -255,95 +340,6 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 </script>
 
 
-	
-# Publication
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<div class="jmp-container">
-  
-<!-- Left-hand side: Markdown content -->
-<div class="jmp-content">
-
-    <h3><em><a href="https://www.sciencedirect.com/science/article/pii/S0927537124000022">Male and female selection effects on gender wage gaps in three countries</a></em></h3>
-
-    <h5>Published at Labour Economics - <a href="https://doi.org/10.1016/j.labeco.2024.102506">https://doi.org/10.1016/j.labeco.2024.102506</a></h5>
-
-<div class="button-container">
-<details>
-  <summary>Abstract</summary>
-    <p class="text-justify">
-    A vast literature on gender wage gaps has examined the importance of selection into employment. However, most analyses have focused only on female labour force participation and gaps at the median. The Great Recession questions this approach because of the major shift in male employment that it implied. This paper uses the methodology proposed by Arellano and Bonhomme (2017) to estimate a quantile selection model over the period 2007–2018. Using a tax and benefit microsimulation model, I compute an instrument capturing both male and female decisions to participate in the labour market: the potential out-of-work income. Since my instrument is crucially determined by the welfare state, I consider three countries with notably different benefit systems – the UK, France, and Finland. My results imply different selection patterns across countries and a sizeable male selection in France and the UK. Correction for selection bias lowers the gender wage gap and reveals a substantial glass ceiling with different magnitudes. Findings suggest that disparities between these countries are driven by occupational segregation and public spending on families.
-  </p>
-</details>
-
- 
-<details>
-  <summary>Presentations</summary>
-Presentations: EALE 2023, LAGV 2023, Ninth ECINEQ Meeting of The Society for the Study of Economic Inequality, ECINEQ PhD Workshop participants at the London School of Economics, 14th Workshop on Labour Economics (IAAEU), the 4th QMUL Economics Workshop for PhD and Post-doctoral Students, the 2022 French Stata conference, PhD seminar at the Aix-Marseille School of Economics, Labour Chair seminar at the Paris School of Economics
-</details>
-</div>
-
-
-</div>
-
-<!-- Right-hand side: Carousel -->
-<div class="jmp-carousel">
-
-<div class="carousel">
-  <div class="carousel-images">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/selection/1.png" alt="Slide sel1">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/selection/2.png" alt="Slide sel2">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/selection/3.png" alt="Slide sel3">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/selection/4.png" alt="Slide sel4">
-  </div>
-  <div class="carousel-buttons">
-    <button class="carousel-button prev">❮</button>
-    <button class="carousel-button next">❯</button>
-  </div>
-</div>
-
-</div>
-</div>
-
-<script>
-document.querySelectorAll('.carousel').forEach((carousel) => {
-  const carouselImages = carousel.querySelector('.carousel-images');
-  const images = carousel.querySelectorAll('.carousel img');
-  const prevButton = carousel.querySelector('.carousel-button.prev');
-  const nextButton = carousel.querySelector('.carousel-button.next');
-
-  let currentIndex = 0;
-
-  function updateCarousel() {
-    const width = images[0].clientWidth;
-    carouselImages.style.transform = `translateX(-${currentIndex * width}px)`;
-  }
-
-  function nextImage() {
-    currentIndex = (currentIndex + 1) % images.length;
-    updateCarousel();
-  }
-
-  function prevImage() {
-    currentIndex = (currentIndex - 1 + images.length) % images.length;
-    updateCarousel();
-  }
-
-  nextButton.addEventListener('click', nextImage);
-  prevButton.addEventListener('click', prevImage);
-
-  // Auto-rotate every 10 seconds
-  setInterval(nextImage, 10000);
-});
-
-</script>
-
-
-# Working Papers
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 <div class="jmp-container">
   
@@ -440,8 +436,8 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 <!-- Left-hand side: Markdown content -->
 <div class="jmp-content">
 
-    <h3><em>Generative AI & Labor Market Discrimination</em></h3>
- With Germain Gauthier (Bocconi University), Debora Nozza (Bocconi University) & Paola Profeta (Bocconi University) - <a href="https://www.socialscienceregistry.org/trials/13538/history/220793">Link to the AEA Pre-analysis Plan</a>    
+    <h3><em>Automating Inequality: Gender Bias in AI-mediated Labor Markets</em></h3>
+ With Germain Gauthier (Bocconi University), Debora Nozza (Bocconi University) & Paola Profeta (Bocconi University) - <a href="https://www.socialscienceregistry.org/trials/13538/history/220793">Link to the AEA Pre-analysis Plan</a>, Previously "Generative AI & Labor Market Discrimination"  
  <br>  
     <br>
     
