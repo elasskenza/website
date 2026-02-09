@@ -273,9 +273,8 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 <p><em>Supported by the <a href="https://dauphine.psl.eu/en/women-and-science">Women and Science</a> Chair Grant</em></p>
 
 
-</div>
-
- 
+</div>  
+</div>  
 
 
 
