@@ -234,6 +234,54 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+<div class="jmp-container">
+  
+<!-- Left-hand side: Markdown content -->
+<div class="jmp-content">
+
+    <h3><em>Automating Inequality: Gender Bias in AI-mediated Labor Markets</em></h3>
+ With Germain Gauthier (Bocconi University), Debora Nozza (Bocconi University) & Paola Profeta (Bocconi University) - <a href="https://www.socialscienceregistry.org/trials/13538/history/220793">Link to the AEA Pre-analysis Plan</a>, Previously "Generative AI & Labor Market Discrimination"  
+
+     <h4>
+<p style="color: #237ecf;">
+  R&R at
+  <a href="https://www.pnas.org/" style="font-weight: bold; color: #237ecf;">
+    PNAS
+  </a> 
+</p>
+</h4>
+ <br>  
+    <br>
+    
+     <h5>Working paper available upon request
+    </h5>
+<br>
+  <div class="button-container">
+<details>
+  <summary>Abstract</summary>
+    <p class="text-justify">
+	The rise of Generative Artificial Intelligence (GenAI) has led to the widespread adoption of automated CV generation services for job seekers and CV screening services for employers. We study the consequences of using GenAI for such tasks. We find that GenAI systematically reproduces and can even amplify gender biases. It generates gender-stereotyped CVs and recommends lower earnings for female job seekers. We also run a series of online experiments inspired by classical correspondence studies, which measure hiring discrimination by comparing employer responses to equivalent CVs that differ only by gender. Our results show that GenAI penalizes female candidates during CV screening in male-dominated occupations. These patterns persist even when models are explicitly instructed to remain gender-neutral. Our findings provide the first direct evidence that GenAI can reinforce structural labor market inequalities, potentially disadvantaging women at every stage of the job search. 
+  </p>
+</details>
+
+<details>
+  <summary>Presentations</summary>
+   TASKS VII Conference: The Economic Impacts of AI on Work and Labor Markets, 4th Workshop on Field Experiments in Economics and Business, 10th CEPR Text-As-Data Workshop,  2025 Workshop in Gender Economics at ENS de Lyon, 5th Discrimination and Diversity Workshop, LAGV 2025, Dondena AI and Society Initiative Seminar at Bocconi University, Advanced AI Methods Workshop, CREM Seminar at Rennes University, Applied Economics Lunch Seminar of the Paris School of Economics, Gender Inequality Workshop at the London School of Economics, Discrimination and the Inequalities in the Age of AI Workshop at Sciences Po
+  </details>
+</div>
+
+<e>Supported by the  <a href="https://dauphine.psl.eu/en/women-and-science">Women and Science</a> Chair Grant</e>
+
+
+</div>
+
+ 
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <div class="jmp-container">
   
@@ -429,93 +477,7 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 
 </script>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-<div class="jmp-container">
-  
-<!-- Left-hand side: Markdown content -->
-<div class="jmp-content">
-
-    <h3><em>Automating Inequality: Gender Bias in AI-mediated Labor Markets</em></h3>
- With Germain Gauthier (Bocconi University), Debora Nozza (Bocconi University) & Paola Profeta (Bocconi University) - <a href="https://www.socialscienceregistry.org/trials/13538/history/220793">Link to the AEA Pre-analysis Plan</a>, Previously "Generative AI & Labor Market Discrimination"  
- <br>  
-    <br>
-    
-     <h5>Working paper available upon request
-    </h5>
-<br>
-  <div class="button-container">
-<details>
-  <summary>Abstract</summary>
-    <p class="text-justify">
-	The rise of Generative Artificial Intelligence (GenAI) has led to the widespread adoption of automated CV generation services for job seekers and CV screening services for employers. We study the consequences of using GenAI for such tasks. We find that GenAI systematically reproduces and can even amplify gender biases. It generates gender-stereotyped CVs and recommends lower earnings for female job seekers. We also run a series of online experiments inspired by classical correspondence studies, which measure hiring discrimination by comparing employer responses to equivalent CVs that differ only by gender. Our results show that GenAI penalizes female candidates during CV screening in male-dominated occupations. These patterns persist even when models are explicitly instructed to remain gender-neutral. Our findings provide the first direct evidence that GenAI can reinforce structural labor market inequalities, potentially disadvantaging women at every stage of the job search. 
-  </p>
-</details>
-
-<details>
-  <summary>Presentations</summary>
-   TASKS VII Conference: The Economic Impacts of AI on Work and Labor Markets, 4th Workshop on Field Experiments in Economics and Business, 10th CEPR Text-As-Data Workshop,  2025 Workshop in Gender Economics at ENS de Lyon, 5th Discrimination and Diversity Workshop, LAGV 2025, Dondena AI and Society Initiative Seminar at Bocconi University, Advanced AI Methods Workshop, CREM Seminar at Rennes University, Applied Economics Lunch Seminar of the Paris School of Economics, Gender Inequality Workshop at the London School of Economics, Discrimination and the Inequalities in the Age of AI Workshop at Sciences Po
-  </details>
-</div>
-
-<e>Supported by the  <a href="https://dauphine.psl.eu/en/women-and-science">Women and Science</a> Chair Grant</e>
-
-
-</div>
-
-<!-- Right-hand side: Carousel -->
-<div class="jmp-carousel">
-
-<div class="carousel">
-  <div class="carousel-images">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/1.jpg" alt="Slide 1">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/2.jpg" alt="Slide 2">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/3.jpg" alt="Slide 3">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/4.jpg" alt="Slide 4">
-    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/5.jpg" alt="Slide 5">
-  </div>
-  <div class="carousel-buttons">
-    <button class="carousel-button prev">❮</button>
-    <button class="carousel-button next">❯</button>
-  </div>
-</div>
-
-</div>
-</div>
-
-<script>
-document.querySelectorAll('.carousel').forEach((carousel) => {
-  const carouselImages = carousel.querySelector('.carousel-images');
-  const images = carousel.querySelectorAll('.carousel img');
-  const prevButton = carousel.querySelector('.carousel-button.prev');
-  const nextButton = carousel.querySelector('.carousel-button.next');
-
-  let currentIndex = 0;
-
-  function updateCarousel() {
-    const width = images[0].clientWidth;
-    carouselImages.style.transform = `translateX(-${currentIndex * width}px)`;
-  }
-
-  function nextImage() {
-    currentIndex = (currentIndex + 1) % images.length;
-    updateCarousel();
-  }
-
-  function prevImage() {
-    currentIndex = (currentIndex - 1 + images.length) % images.length;
-    updateCarousel();
-  }
-
-  nextButton.addEventListener('click', nextImage);
-  prevButton.addEventListener('click', prevImage);
-
-  // Auto-rotate every 10 seconds
-  setInterval(nextImage, 10000);
-});
-
-</script>
 
 
 
