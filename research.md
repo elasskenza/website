@@ -270,7 +270,7 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
   </details>
 </div>
 
-<e>Supported by the  <a href="https://dauphine.psl.eu/en/women-and-science">Women and Science</a> Chair Grant</e>
+<p><em>Supported by the <a href="https://dauphine.psl.eu/en/women-and-science">Women and Science</a> Chair Grant</em></p>
 
 
 </div>
@@ -281,6 +281,7 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 <div class="jmp-container">
