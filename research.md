@@ -242,6 +242,8 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
     <h3><em>Automating Inequality: Gender Bias in AI-mediated Labor Markets</em></h3>
  With Germain Gauthier (Bocconi University), Debora Nozza (Bocconi University) & Paola Profeta (Bocconi University) - <a href="https://www.socialscienceregistry.org/trials/13538/history/220793">Link to the AEA Pre-analysis Plan</a>, Previously "Generative AI & Labor Market Discrimination"  
     <br>
+	 <br> 
+	 
      <h4>
 <p style="color: #237ecf;">
   Revise & Resubmit at
@@ -249,8 +251,7 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
     PNAS (Proceedings of the National Academy of Sciences)
   </a> 
 </p>
-</h4>
- <br>  
+</h4> 
 
     
      <h5>Working paper available upon request
