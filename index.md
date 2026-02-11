@@ -34,6 +34,11 @@ elements:
 
 * I am also on [X](https://twitter.com/ElassKenza) and [BlueSky](https://bsky.app/profile/kenza-elass.bsky.social).
 
+📢 **News:** 📢  My paper *"Automating Inequality: Gender Bias in AI-mediated Labor Markets"* (with G. Gauthier, D. Nozza & P. Profeta) received a **Revise & Resubmit** at <a href="https://www.pnas.org/" style="font-weight: bold; color: #237ecf;">
+    PNAS (Proceedings of the National Academy of Sciences)
+  </a>  
+{: .notice--accent}
+
 🏆 **News:** 🏆 ![image-right]({{ '/assets/Chiuri.jpg' | absolute_url }}){: .align-right style="width: 25%;"} My Job Market Paper *"What do women want in a job?"* was awarded the   <a href="https://www.siepweb.it/siep/wp/en/en/premio-etta-chiuri/" style="font-weight: bold; color: #237ecf;">
     Etta Chiuri Prize 2025
   </a>  by the Italian Society of Public Economics.
