@@ -315,7 +315,7 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 <details>
   <summary>Presentations</summary>
   <ul>
-    <li>  Bank of Italy Gender Economics Workshop*,  SIEP 2025 Conference, ECONtribute and C-SEB Design & Behavior Seminar at Cologne University, Areena JMC Symposium, EEA-ESEM 2024, EALE 2024, Junior Economist Meeting 2024, 2024 Junior Research Day at College de France, Afépop 2024, ADRES 2023, AFSE 2023, European Association of Labour Economists (EALE) Conference 2022, International Association for Applied Econometrics (IAAE) Conference 2022, LAGV 2022, JMA 2022, Food for Thought seminar at Bocconi University, Labour Chair Seminar at the Paris School of Economics, Firms and market seminar at CREST, Core Brown Bag Seminar at Louvain University, ADRES 2023 and PhD seminar at the Aix Marseille School of Economics </li>
+    <li>  Bank of Italy Gender Economics Workshop, Workshop on Gender Gaps and Social Norms at Pompeu Fabra University, SIEP 2025 Conference, ECONtribute and C-SEB Design & Behavior Seminar at Cologne University, Areena JMC Symposium, EEA-ESEM 2024, EALE 2024, Junior Economist Meeting 2024, 2024 Junior Research Day at College de France, Afépop 2024, ADRES 2023, AFSE 2023, European Association of Labour Economists (EALE) Conference 2022, International Association for Applied Econometrics (IAAE) Conference 2022, LAGV 2022, JMA 2022, Food for Thought seminar at Bocconi University, Labour Chair Seminar at the Paris School of Economics, Firms and market seminar at CREST, Core Brown Bag Seminar at Louvain University, ADRES 2023 and PhD seminar at the Aix Marseille School of Economics </li>
   </ul>
 </details>
 </div>
