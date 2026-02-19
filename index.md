@@ -50,7 +50,7 @@ elements:
 {: .notice--success}
 
 
-**Upcoming presentations:** 10th MPWZ-CEPR Text-as-Data Workshop, 4th Workshop on Field Experiments in Economics and Business, TASKS VII Conference: The Economic Impacts of AI on Work and Labor Markets, Workshop on Gender Gaps and Social Norms, SIEP Conference, Banca d'Italia Gender Economics Workshop
+**Upcoming presentations:**  2nd Workshop for Early Career Women in Economic Geography and Spatial Economics at LSE, Venice Summer Institute, Workshop on "The Economics of Gender and the Family: Challenges in Past, Present, and Future"
 {: .notice--success}
 
 <i class="fa fa-envelope"></i> **Contact**: kenza.elass@ens-lyon.fr 
