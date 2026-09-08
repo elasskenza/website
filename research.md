@@ -297,7 +297,11 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
   <a href="https://www.siepweb.it/siep/wp/en/en/premio-etta-chiuri/" style="font-weight: bold; color: #237ecf;">
     Etta Chiuri Prize 2025
   </a> 
-  by the Italian Society of Public Economics.
+  by the Italian Society of Public Economics, the <a href="https://www.uni.lu/fdef-en/events/5th-workshop-in-gender-and-economics/" style="font-weight: bold; color: #237ecf;">
+    Young Researcher Prize 2026
+  </a>  at the 5th Workshop in Gender and Economics (University of Luxembourg), and was runner-up for the   <a href="https://www.ifo.de/en/cesifo/event/2026-05-29/cesifo-area-conference-labor-economics-2026" style="font-weight: bold; color: #237ecf;">
+    Distinguished CESifo Affiliate Award in Labor Economics
+  </a>.
 </p>
 </h4>
     <h5>Draft available here: 
