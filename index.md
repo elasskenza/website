@@ -25,7 +25,7 @@ elements:
   </a>  
 {: .notice--accent}
 
-* My research interests are in **applied labour**, **gender**, **digital** and **urban economics**.
+* My research interests are in **applied labour**, **public**, **digital** and **urban economics**.
   
 * A key aspect of my research is the use of **text analysis methods (NLP)** to collect new data, like CVs, job descriptions, and job vacancies.
 
@@ -40,18 +40,19 @@ elements:
 * I am also on [X](https://twitter.com/ElassKenza) and [BlueSky](https://bsky.app/profile/kenza-elass.bsky.social).
 
 
-🏆 **News:** 🏆 ![image-right]({{ '/assets/Chiuri.jpg' | absolute_url }}){: .align-right style="width: 25%;"} My Job Market Paper *"What do women want in a job?"* was awarded the   <a href="https://www.siepweb.it/siep/wp/en/en/premio-etta-chiuri/" style="font-weight: bold; color: #237ecf;">
+🏆 **News:** 🏆 ![image-right]({{ '/assets/Chiuri.jpg' | absolute_url }}){: .align-right style="width: 25%;"} My Job Market Paper *"What do women want in a job?"* was awarded the   <a href="https://www.uni.lu/fdef-en/events/5th-workshop-in-gender-and-economics/" style="font-weight: bold; color: #237ecf;">
+    Young Researcher Prize 2026
+  </a>  at the 5th Workshop in Gender and Economics (University of Luxembourg), the   <a href="https://www.siepweb.it/siep/wp/en/en/premio-etta-chiuri/" style="font-weight: bold; color: #237ecf;">
     Etta Chiuri Prize 2025
-  </a>  by the Italian Society of Public Economics.
+  </a>  by the Italian Society of Public Economics, and was runner-up for the   <a href="https://www.ifo.de/en/cesifo/event/2026-05-29/cesifo-area-conference-labor-economics-2026" style="font-weight: bold; color: #237ecf;">
+    Distinguished CESifo Affiliate Award in Labor Economics
+  </a>.
 {: .notice--accent}
 
 ![image-left]({{ '/assets/workshop.jpg' | absolute_url }}){: .align-left style="width: 40%;"}
 **Check the fantastic program of our last workshop:** The [Axa Gender Lab of Bocconi](https://genderlab.unibocconi.eu/), the [London School of Economics WISPPRH](https://www.lse.ac.uk/social-policy/research/Research-clusters/WISPPRH) and [NYU Abu Dhabi](https://nyuad.nyu.edu/en/) organized a joint workshop on *“Gender Inequality: Navigating New frontiers And Paradigm Shifts”*. **Thanks to everyone who participated online and in person at the London School of Economics**. Topics: Fertility, AI, Carbon Footprint, etc. See the program [here](https://www.lse.ac.uk/social-policy/research/Research-clusters/WISPPRH/events/2025/March-Workshop/Gender-Inequality-Navigating-New-Frontiers-and-Paradigm-Shifts).
 {: .notice--success}
 
-
-**Upcoming presentations:**  2nd Workshop for Early Career Women in Economic Geography and Spatial Economics at LSE, Venice Summer Institute, Workshop on "The Economics of Gender and the Family: Challenges in Past, Present, and Future"
-{: .notice--success}
 
 <i class="fa fa-envelope"></i> **Contact**: kenza.elass@ens-lyon.fr 
 {: .notice}
