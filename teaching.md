@@ -20,6 +20,12 @@ elements:
 
 </style>
 
+# ENS Lyon 
+
+* <ins>2026:</ins> **Labour Economics**, Undergraduate-en, 3rd year
+* <ins>2026:</ins> **LLMs for Academic Research**, Invited Lecture/Module, [Lyon Summer School in Empirical Research Methods](https://www.cergic-lyon.fr/summer-school) — Module on the use of large language models as research tools in economics.
+* <ins>2025:</ins> **Gender Economics**, Graduate-en, 1st year
+
 # Sciences-Po 
 
 * <ins>2025:</ins> **Gender Economics**, Undergraduate-en, 2nd year
