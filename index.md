@@ -50,7 +50,7 @@ elements:
 {: .notice--accent}
 
 ![image-left]({{ '/assets/workshop.jpg' | absolute_url }}){: .align-left style="width: 40%;"}
-**Check the fantastic program of our last workshop:** The [Axa Gender Lab of Bocconi](https://genderlab.unibocconi.eu/), the [London School of Economics WISPPRH](https://www.lse.ac.uk/social-policy/research/Research-clusters/WISPPRH) and [NYU Abu Dhabi](https://nyuad.nyu.edu/en/) organized a joint workshop on *“Gender Inequality: Navigating New frontiers And Paradigm Shifts”*. **Thanks to everyone who participated online and in person at the London School of Economics**. Topics: Fertility, AI, Carbon Footprint, etc. See the program [here](https://www.lse.ac.uk/social-policy/research/Research-clusters/WISPPRH/events/2025/March-Workshop/Gender-Inequality-Navigating-New-Frontiers-and-Paradigm-Shifts).
+**Check the fantastic program of our last 2026 workshop:** With the [Axa Gender Lab of Bocconi](https://genderlab.unibocconi.eu/), the [London School of Economics WISPPRH](https://www.lse.ac.uk/social-policy/research/Research-clusters/WISPPRH) and [NYU Abu Dhabi](https://nyuad.nyu.edu/en/), we organize a joint workshop on gender economics each year. **Thanks to everyone who participated online and in person at the London School of Economics**. See the 2026 program [here](https://www.lse.ac.uk/social-policy/research/research-clusters/wispprh/events/closing-gender-gaps-workshop) and previous editions [here](https://www.lse.ac.uk/social-policy/research/research-clusters/wispprh/events).
 {: .notice--success}
 
 
