@@ -53,6 +53,9 @@ elements:
 **Check the fantastic program of our last 2026 workshop:** With the [Axa Gender Lab of Bocconi](https://genderlab.unibocconi.eu/), the [London School of Economics WISPPRH](https://www.lse.ac.uk/social-policy/research/Research-clusters/WISPPRH) and [NYU Abu Dhabi](https://nyuad.nyu.edu/en/), we organize a joint workshop on gender economics each year. **Thanks to everyone who participated online and in person at the London School of Economics**. See the 2026 program [here](https://www.lse.ac.uk/social-policy/research/research-clusters/wispprh/events/closing-gender-gaps-workshop) and previous editions [here](https://www.lse.ac.uk/social-policy/research/research-clusters/wispprh/events).
 {: .notice--success}
 
+Upcoming presentations:  Labour Seminar Series at Aalto University & Innovation Seminar Collège de France - INSEAD
+{: .notice--success}
+
 
 <i class="fa fa-envelope"></i> **Contact**: kenza.elass@ens-lyon.fr 
 {: .notice}
