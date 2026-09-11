@@ -20,7 +20,7 @@ elements:
 
 ![image-right]({{ '/assets/image0.jpeg' | absolute_url }}){: .align-right style="width: 40%;"}
 
-📢 **News:** 📢  My paper *"Automating Inequality: Gender Bias in AI-mediated Labor Markets"* (with G. Gauthier, D. Nozza & P. Profeta) received a **Revise & Resubmit** at <a href="https://www.pnas.org/" style="font-weight: bold; color: #237ecf;">
+📢 **News:** 📢  My paper *"Automating Inequality: Gender Bias in AI-mediated Labor Markets"* (with G. Gauthier, D. Nozza & P. Profeta) received a **Minor Revise & Resubmit** at <a href="https://www.pnas.org/" style="font-weight: bold; color: #237ecf;">
     PNAS (Proceedings of the National Academy of Sciences)
   </a>  
 {: .notice--accent}
