@@ -246,7 +246,7 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 	 
      <h4>
 <p style="color: #237ecf;">
-  Revise & Resubmit at
+  Minor Revise & Resubmit at
   <a href="https://www.pnas.org/" style="font-weight: bold; color: #237ecf;">
     PNAS (Proceedings of the National Academy of Sciences)
   </a> 
