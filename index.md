@@ -49,7 +49,7 @@ elements:
   </a>.
 {: .notice--accent}
 
-![AI Thematic Semester: call for applications]({{ '/assets/Visuel_LinkedIn_Bluesky_call_junior.png' | absolute_url }}){: .align-right style="width: 30%;"}
+![AI Thematic Semester: call for applications]({{ '/assets/Visuel_LinkedIn_Bluesky_call_junior.png' | absolute_url }}){: .align-right style="width: 45%;"}
 I am organizing the <a href="https://www.cergic-lyon.fr/ai-thematic-semester" style="font-weight: bold; color: #237ecf;">AI Thematic Semester</a> *"AI for Applied Economics: Data, Methods and Challenges"*, hosted by CERGIC (ENS de Lyon) from January to July 2027 with the support of the CNRS AISSAI center. The semester will bring economists together to examine how artificial intelligence can advance research in applied economics, both as a tool for empirical research and as an object of study.<br><br>
 📢 **Ongoing call:** fully funded research visits of one week to one month for PhD students and postdocs in economics with an interest in AI. Applications received by **31 October 2026** will be reviewed first ([read the call](https://www.cergic-lyon.fr/_files/ugd/b94d61_84a1f430da274055be39712554b0f319.pdf)).<br><br>
 Do not hesitate to [contact me](mailto:kenza.elass@ens-lyon.fr) if you have any questions!
