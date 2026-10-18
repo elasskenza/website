@@ -483,22 +483,10 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 </script>
 
 
-
-
-
 <br>
 <br>
 
-# Selected work in progress 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  *  **_Gender Norms and Child Development_**, with Hélène Le Forner (CREM) 
-  * **_Changing the media narrative: the role of social movements_**, with Caroline Coly (IEB) and Mahima Vasishth (Bocconi University)
-  * **_Is artificial intelligence turning the tables on gender wage inequality?_**, With Fabien Petit (UCL, University of Barcelona) and Paola Profeta (Bocconi University) 
-
-<br>
-<br>
 
 
 <section>
