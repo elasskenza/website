@@ -88,22 +88,26 @@ section {
 
 .carousel {
   position: relative;
-  max-width: 600px; /* Define the maximum width of the carousel */
-  margin: 0 auto; /* Center the carousel */
+  max-width: 600px;
+  height: 220px;
+  margin: 0 auto;
   overflow: hidden;
   border: 1px solid #ddd;
   border-radius: 8px;
-  background: #f9f9f9; /* Optional: Add a background for visibility */
+  background: #fff;
 }
 
 .carousel-images {
   display: flex;
+  height: 100%;
   transition: transform 0.5s ease-in-out;
 }
 
 .carousel img {
-  width: 100%; /* Ensures images scale with the carousel width */
-  flex-shrink: 0;
+  flex: 0 0 100%;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 
 .carousel-buttons {
