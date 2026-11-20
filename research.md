@@ -198,6 +198,8 @@ section {
 </div>
 </div>
 
+<br><br>
+
 <div class="jmp-container">
   
 <!-- Left-hand side: Markdown content -->
