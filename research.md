@@ -150,6 +150,51 @@ section {
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div class="jmp-container">
+
+<!-- Left-hand side: Markdown content -->
+<div class="jmp-content">
+
+    <h3><em><a href="https://www.pnas.org/doi/full/10.1073/pnas.2534118123">Automating inequality? Gender bias in AI-mediated labor markets</a></em></h3>
+
+    <h5>Published in Proceedings of the National Academy of Sciences, 123(47), e2534118123 — <a href="https://doi.org/10.1073/pnas.2534118123">https://doi.org/10.1073/pnas.2534118123</a></h5>
+
+<div class="button-container">
+<details>
+  <summary>Abstract</summary>
+    <p class="text-justify">
+    Generative AI is rapidly entering labor markets, with large language models (LLMs) now used to help write CVs and evaluate applicants. We study the risks this creates in a series of audit experiments in which applicant gender is randomly assigned while all other information is held constant. We find that LLMs generate gender-stereotypical CVs and exhibit gender bias in screening scores and wage recommendations. Screening scores track occupational gender segregation, penalizing women in male-dominated occupations and favoring them in female-dominated ones. Wage recommendations track occupational gender wage gaps when gender is explicit in the prompt, though this gradient weakens under name-based gender signaling and is sensitive to the LLMs being used. These disparities arise through two channels: evaluation bias, when identical CV content is evaluated differently by gender, and generation bias, when gendered content produced by the model affects later evaluation. Because the same systems shape both CV content and its subsequent assessment, these channels can reinforce one another. Taken together, our findings identify measurable risks of algorithmic amplification in AI-mediated job search.
+    </p>
+</details>
+
+<details>
+  <summary>Presentations</summary>
+  TASKS VII Conference: The Economic Impacts of AI on Work and Labor Markets, 4th Workshop on Field Experiments in Economics and Business, 10th CEPR Text-As-Data Workshop, 2025 Workshop in Gender Economics at ENS de Lyon, 5th Discrimination and Diversity Workshop, LAGV 2025, Dondena AI and Society Initiative Seminar at Bocconi University, Advanced AI Methods Workshop, CREM Seminar at Rennes University, Applied Economics Lunch Seminar of the Paris School of Economics, Gender Inequality Workshop at the London School of Economics, Discrimination and the Inequalities in the Age of AI Workshop at Sciences Po
+</details>
+</div>
+
+</div>
+
+<!-- Right-hand side: Carousel -->
+<div class="jmp-carousel">
+
+<div class="carousel">
+  <div class="carousel-images">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/Fig1a_CV_content.png" alt="Gender differences in AI-generated CV content">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/Fig1b_CV_job_ads.png" alt="AI-generated CVs and job advertisements">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/Fig2_wages.png" alt="Gender gaps in AI wage recommendations">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/Fig3_screening.png" alt="Gender gaps in AI screening scores">
+    <img src="https://raw.githubusercontent.com/elasskenza/website/main/assets/ai_cv/Fig4_prompts.png" alt="Screening scores under different prompts">
+  </div>
+  <div class="carousel-buttons">
+    <button class="carousel-button prev">❮</button>
+    <button class="carousel-button next">❯</button>
+  </div>
+</div>
+
+</div>
+</div>
+
+<div class="jmp-container">
   
 <!-- Left-hand side: Markdown content -->
 <div class="jmp-content">
@@ -232,56 +277,6 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 # Working Papers
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-<div class="jmp-container">
-  
-<!-- Left-hand side: Markdown content -->
-<div class="jmp-content">
-
-    <h3><em>Automating Inequality? Gender Bias in AI-mediated Labor Markets</em></h3>
- With Germain Gauthier (Bocconi University), Debora Nozza (Bocconi University) & Paola Profeta (Bocconi University) - <a href="https://www.socialscienceregistry.org/trials/13538/history/220793">Link to the AEA Pre-analysis Plan</a>, Previously "Generative AI & Labor Market Discrimination"  
-    <br>
-	 <br> 
-	 
-     <h4>
-<p style="color: #237ecf;">
-  Accepted at
-  <a href="https://www.pnas.org/" style="font-weight: bold; color: #237ecf;">
-    PNAS (Proceedings of the National Academy of Sciences)
-  </a> 
-</p>
-</h4> 
-
-    
-     <h5>Working paper available upon request
-    </h5>
-<br>
-  <div class="button-container">
-<details>
-  <summary>Abstract</summary>
-    <p class="text-justify">
-Generative AI is rapidly entering labor markets, with large language models (LLMs) now used to help write CVs and evaluate applicants. We study the risks this creates in a series of audit experiments in which applicant gender is randomly assigned while all other information is held constant. We find that LLMs generate gender-stereotypical CVs and exhibit gender bias in screening scores and wage recommendations. Screening scores track occupational gender segregation, penalizing women in male-dominated occupations and favoring them in female-dominated ones. Wage recommendations track occupational gender wage gaps when gender is explicit in the prompt, though this gradient weakens under name-based gender signaling and is sensitive to the LLMs being used. These disparities arise through two channels: evaluation bias, when identical CV content is evaluated differently by gender, and generation bias, when gendered content produced by the model affects later evaluation. Because the same systems shape both CV content and its subsequent assessment, these channels can reinforce one another. Taken together, our findings identify measurable risks of algorithmic amplification in AI-mediated job search.
-  </p>
-</details>
-
-<details>
-  <summary>Presentations</summary>
-   TASKS VII Conference: The Economic Impacts of AI on Work and Labor Markets, 4th Workshop on Field Experiments in Economics and Business, 10th CEPR Text-As-Data Workshop,  2025 Workshop in Gender Economics at ENS de Lyon, 5th Discrimination and Diversity Workshop, LAGV 2025, Dondena AI and Society Initiative Seminar at Bocconi University, Advanced AI Methods Workshop, CREM Seminar at Rennes University, Applied Economics Lunch Seminar of the Paris School of Economics, Gender Inequality Workshop at the London School of Economics, Discrimination and the Inequalities in the Age of AI Workshop at Sciences Po
-  </details>
-</div>
-
-<p><em>Supported by the <a href="https://dauphine.psl.eu/en/women-and-science">Women and Science</a> Chair Grant</em></p>
-
-
-</div>  
-</div>  
-
-
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 
 <div class="jmp-container">
