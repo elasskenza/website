@@ -160,7 +160,7 @@ section {
 
     <h3><em><a href="https://www.pnas.org/doi/full/10.1073/pnas.2534118123">Automating inequality? Gender bias in AI-mediated labor markets</a></em></h3>
 
-    <h5>Published in Proceedings of the National Academy of Sciences, 123(47), e2534118123 — <a href="https://doi.org/10.1073/pnas.2534118123">https://doi.org/10.1073/pnas.2534118123</a></h5>
+    <h5>Published in Proceedings of the National Academy of Sciences (PNAS), 123(47), e2534118123 — <a href="https://doi.org/10.1073/pnas.2534118123">https://doi.org/10.1073/pnas.2534118123</a></h5>
 
 <div class="button-container">
 <details>
