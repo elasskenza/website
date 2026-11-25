@@ -144,6 +144,13 @@ section {
 }
 
 
+  .coverage-links {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px 14px;
+    margin-top: 16px;
+  }
 
 </style>
 
@@ -174,6 +181,15 @@ section {
   <summary>Presentations</summary>
   TASKS VII Conference: The Economic Impacts of AI on Work and Labor Markets, 4th Workshop on Field Experiments in Economics and Business, 10th CEPR Text-As-Data Workshop, 2025 Workshop in Gender Economics at ENS de Lyon, 5th Discrimination and Diversity Workshop, LAGV 2025, Dondena AI and Society Initiative Seminar at Bocconi University, Advanced AI Methods Workshop, CREM Seminar at Rennes University, Applied Economics Lunch Seminar of the Paris School of Economics, Gender Inequality Workshop at the London School of Economics, Discrimination and the Inequalities in the Age of AI Workshop at Sciences Po
 </details>
+</div>
+
+<div class="coverage-links">
+  <strong>Media coverage:</strong>
+  <a href="https://www.repubblica.it/en/economy/consumer-affairs/employment/2026/11/20/news/when_ai_considers_jobs_for_men_and_women_stereotypes_die_hard_in_the_bocconi_study-425736112/" target="_blank" rel="noopener">la Repubblica (EN)</a>
+  <a href="https://www.repubblica.it/economia/diritti-e-consumi/lavoro/2026/11/20/news/ia_lavoro_uomini_donne_stereotipi_studio_bocconi_algoritmo-425736103/" target="_blank" rel="noopener">la Repubblica (IT)</a>
+  <a href="https://milano.repubblica.it/cronaca/2026/11/19/news/ia_curriculum_donne_stereotipi_genere_studio_bocconi-425735488/" target="_blank" rel="noopener">la Repubblica Milano (IT)</a>
+  <a href="https://phys.org/news/2026-11-ai-job-reveal-gender-bias.html" target="_blank" rel="noopener">Phys.org (EN)</a>
+  <a href="https://www.quotidiano.net/luce/attualita/curriculum-donne-intelligenza-artificiale-47a6f396" target="_blank" rel="noopener">Quotidiano.net (IT)</a>
 </div>
 
 </div>
@@ -245,40 +261,6 @@ Presentations: EALE 2023, LAGV 2023, Ninth ECINEQ Meeting of The Society for the
 
 </div>
 </div>
-
-<script>
-document.querySelectorAll('.carousel').forEach((carousel) => {
-  const carouselImages = carousel.querySelector('.carousel-images');
-  const images = carousel.querySelectorAll('.carousel img');
-  const prevButton = carousel.querySelector('.carousel-button.prev');
-  const nextButton = carousel.querySelector('.carousel-button.next');
-
-  let currentIndex = 0;
-
-  function updateCarousel() {
-    const width = images[0].clientWidth;
-    carouselImages.style.transform = `translateX(-${currentIndex * width}px)`;
-  }
-
-  function nextImage() {
-    currentIndex = (currentIndex + 1) % images.length;
-    updateCarousel();
-  }
-
-  function prevImage() {
-    currentIndex = (currentIndex - 1 + images.length) % images.length;
-    updateCarousel();
-  }
-
-  nextButton.addEventListener('click', nextImage);
-  prevButton.addEventListener('click', prevImage);
-
-  // Auto-rotate every 10 seconds
-  setInterval(nextImage, 10000);
-});
-
-</script>
-
 
 # Working Papers
 
@@ -360,39 +342,6 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 </div>
 </div>
 
-<script>
-document.querySelectorAll('.carousel').forEach((carousel) => {
-  const carouselImages = carousel.querySelector('.carousel-images');
-  const images = carousel.querySelectorAll('.carousel img');
-  const prevButton = carousel.querySelector('.carousel-button.prev');
-  const nextButton = carousel.querySelector('.carousel-button.next');
-
-  let currentIndex = 0;
-
-  function updateCarousel() {
-    const width = images[0].clientWidth;
-    carouselImages.style.transform = `translateX(-${currentIndex * width}px)`;
-  }
-
-  function nextImage() {
-    currentIndex = (currentIndex + 1) % images.length;
-    updateCarousel();
-  }
-
-  function prevImage() {
-    currentIndex = (currentIndex - 1 + images.length) % images.length;
-    updateCarousel();
-  }
-
-  nextButton.addEventListener('click', nextImage);
-  prevButton.addEventListener('click', prevImage);
-
-  // Auto-rotate every 10 seconds
-  setInterval(nextImage, 10000);
-});
-
-</script>
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -450,40 +399,6 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 </div>
 </div>
 
-<script>
-document.querySelectorAll('.carousel').forEach((carousel) => {
-  const carouselImages = carousel.querySelector('.carousel-images');
-  const images = carousel.querySelectorAll('.carousel img');
-  const prevButton = carousel.querySelector('.carousel-button.prev');
-  const nextButton = carousel.querySelector('.carousel-button.next');
-
-  let currentIndex = 0;
-
-  function updateCarousel() {
-    const width = images[0].clientWidth;
-    carouselImages.style.transform = `translateX(-${currentIndex * width}px)`;
-  }
-
-  function nextImage() {
-    currentIndex = (currentIndex + 1) % images.length;
-    updateCarousel();
-  }
-
-  function prevImage() {
-    currentIndex = (currentIndex - 1 + images.length) % images.length;
-    updateCarousel();
-  }
-
-  nextButton.addEventListener('click', nextImage);
-  prevButton.addEventListener('click', prevImage);
-
-  // Auto-rotate every 10 seconds
-  setInterval(nextImage, 10000);
-});
-
-</script>
-
-
 <br>
 <br>
 
@@ -538,3 +453,37 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
 
 <br>
 <br>
+
+<script>
+document.querySelectorAll('.carousel').forEach((carousel) => {
+  const carouselImages = carousel.querySelector('.carousel-images');
+  const images = carousel.querySelectorAll('.carousel img');
+  const prevButton = carousel.querySelector('.carousel-button.prev');
+  const nextButton = carousel.querySelector('.carousel-button.next');
+
+  if (!carouselImages || images.length === 0 || !prevButton || !nextButton) return;
+
+  let currentIndex = 0;
+
+  function updateCarousel() {
+    const width = images[0].clientWidth;
+    carouselImages.style.transform = `translateX(-${currentIndex * width}px)`;
+  }
+
+  function nextImage() {
+    currentIndex = (currentIndex + 1) % images.length;
+    updateCarousel();
+  }
+
+  function prevImage() {
+    currentIndex = (currentIndex - 1 + images.length) % images.length;
+    updateCarousel();
+  }
+
+  nextButton.addEventListener('click', nextImage);
+  prevButton.addEventListener('click', prevImage);
+  window.addEventListener('resize', updateCarousel);
+  window.setInterval(nextImage, 10000);
+  updateCarousel();
+});
+</script>
